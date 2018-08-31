@@ -1,4 +1,7 @@
-### Portfolio Machine Learning
+# Portfolio Machine Learning
+
+### Preparacion de los datos
+- [Valores nulos, normalización y outliers](https://github.com/nico6017/MachineLearning/blob/master/PRACTICOS%20DOMICILIARIOS%20%20UT02.pdf)
 
 You can use the [editor on GitHub](https://github.com/nico6017/MachineLearning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
