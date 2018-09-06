@@ -24,6 +24,10 @@ Yendo al punto donde ambos conceptos se distancian, la inteligencia artificial e
 ##### ¿qué lo diferencia del análisis estadístico?
 Si bien Machine Learning utiliza estadísticas para la resolución de problemas, aborda cuestiones totalmente por fuera del campo de la estadística, como por ejemplo mantener conversaciones como si se tratase de un humano, reconocer patrones, reconocer imágenes, dirigir vehículos.
 
+##### ¿Cómo se diferencia con Data Mining?
+
+##### ¿En qué se aplica?
+
 
 
 
