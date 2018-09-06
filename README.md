@@ -13,11 +13,16 @@ Si bien hay muchas definiciones, podemos encontrar un tronco común que define a
 
 En este marco entonces, el **Machine Learning** o “Aprendizaje Automático” es el campo de la Inteligencia Artificial que busca **dotar a esas máquinas, capacidad de aprendizaje**
 
-Entonces si nos preguntamos **¿qué tiene en común y en qué se diferencia de “Inteligencia Artificial”?**
- La respuesta es que Machine Learning es una disciplina dentro de la Inteligencia Artificial.
+##### ¿qué tiene en común y en qué se diferencia de la Inteligencia Artificial ?
+ La respuesta es que Machine Learning es una disciplina dentro de la Inteligencia Artificial, es decir que la Inteligencia Artificial es un concepto más macro.
 
-Por otra parte, **¿qué lo diferencia del análisis estadístico?**:
-	Si bien Machine Learning utiliza estadísticas para la resolución de problemas, aborda cuestiones totalmente por fuera del campo de la estadística, como por ejemplo mantener conversaciones como si se tratase de un humano, reconocer patrones, reconocer imágenes, dirigir vehículos.
+ Podemos comenzar por un punto común que ambos conceptos persiguen:
+ - la creación de dispositivos o algoritmos que omiten o reemplacen al ser humano emulando sus funciones cognitivas
+ 
+Yendo al punto donde ambos conceptos se distancian, la inteligencia artificial engloba la idea de que las máquinas realicen acciones emulando el comportamiento humano. mientras que machine learning es la disciplina que trata puntualmente el area del aprendizaje. se podría decir que machine learning es el motor de la inteligencia artificial
+
+##### ¿qué lo diferencia del análisis estadístico?
+Si bien Machine Learning utiliza estadísticas para la resolución de problemas, aborda cuestiones totalmente por fuera del campo de la estadística, como por ejemplo mantener conversaciones como si se tratase de un humano, reconocer patrones, reconocer imágenes, dirigir vehículos.
 
 
 
@@ -31,6 +36,7 @@ Por otra parte, **¿qué lo diferencia del análisis estadístico?**:
 ## Preparacion de los datos
 
  [Valores nulos, normalización y outliers](https://github.com/nico6017/MachineLearning/blob/master/PRACTICOS%20DOMICILIARIOS%20%20UT02.pdf)
+
 
 
 
