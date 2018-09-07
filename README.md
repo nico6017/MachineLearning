@@ -36,11 +36,11 @@ Hoy se dice que la Inteligencia Artificial es el futuro de la tecnología y eso 
 
 A continuación, veamos algunas de las aplicaciones más relevantes de hoy en día:
 
-#####Seguridad de los datos
+##### Seguridad de los datos
 
 * Si bien el software malicioso aumenta día a día, la mayoría del malware suele contener patrones y código en común, para lo cual se utiliza Machine Learning en la detección de dichas similitudes.
 
-#####Seguridad personal
+##### Seguridad personal
 
 
  - [Herramientas y Plafaformas]
