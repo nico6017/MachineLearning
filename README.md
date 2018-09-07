@@ -29,7 +29,10 @@ En pocas palabras podríamos decir que Data Mining se trata de algo más puntual
 La minería de datos, se focaliza en descubrir ciertas propiedades a partir de un conjunto de datos, se realiza sobre un set de datos en particular, con un criterio y objetivo específico. Por otra parte, Machine Learning está enfocada en el diseño de algoritmos que puedan aprender y realizar predicciones a partir de un conjunto de datos.
 
 ##### ¿En qué se aplica?
+En pocas palabras podríamos decir que Data Mining se trata de algo más puntual con un objetivo particular.
+La minería de datos, se focaliza en descubrir ciertas propiedades a partir de un conjunto de datos, se realiza sobre un set de datos en particular, con un criterio y objetivo específico. Por otra parte, Machine Learning está enfocada en el diseño de algoritmos que puedan aprender y realizar predicciones a partir de un conjunto de datos.
 
+Hoy se dice que la Inteligencia Artificial es el futuro de la tecnología y eso se debe las múltiples aplicaciones que tiene y a la posibilidad de ser aplicada en todos los ámbitos de la vida.
 
 
 
