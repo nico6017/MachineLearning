@@ -34,7 +34,13 @@ La minería de datos, se focaliza en descubrir ciertas propiedades a partir de u
 
 Hoy se dice que la Inteligencia Artificial es el futuro de la tecnología y eso se debe las múltiples aplicaciones que tiene y a la posibilidad de ser aplicada en todos los ámbitos de la vida.
 
+A continuación, veamos algunas de las aplicaciones más relevantes de hoy en día:
 
+#####Seguridad de los datos
+
+* Si bien el software malicioso aumenta día a día, la mayoría del malware suele contener patrones y código en común, para lo cual se utiliza Machine Learning en la detección de dichas similitudes.
+
+#####Seguridad personal
 
 
  - [Herramientas y Plafaformas]
@@ -45,11 +51,6 @@ Hoy se dice que la Inteligencia Artificial es el futuro de la tecnología y eso 
 ## Preparacion de los datos
 
  [Valores nulos, normalización y outliers](https://github.com/nico6017/MachineLearning/blob/master/PRACTICOS%20DOMICILIARIOS%20%20UT02.pdf)
-
-
-
-
-
 
 
 
