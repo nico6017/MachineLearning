@@ -25,6 +25,8 @@ Yendo al punto donde ambos conceptos se distancian, la inteligencia artificial e
 Si bien Machine Learning utiliza estadísticas para la resolución de problemas, aborda cuestiones totalmente por fuera del campo de la estadística, como por ejemplo mantener conversaciones como si se tratase de un humano, reconocer patrones, reconocer imágenes, dirigir vehículos.
 
 ##### ¿Cómo se diferencia con Data Mining?
+En pocas palabras podríamos decir que Data Mining se trata de algo más puntual con un objetivo particular.
+La minería de datos, se focaliza en descubrir ciertas propiedades a partir de un conjunto de datos, se realiza sobre un set de datos en particular, con un criterio y objetivo específico. Por otra parte, Machine Learning está enfocada en el diseño de algoritmos que puedan aprender y realizar predicciones a partir de un conjunto de datos.
 
 ##### ¿En qué se aplica?
 
