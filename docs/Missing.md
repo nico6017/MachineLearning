@@ -1,6 +1,6 @@
 # Preparación de los datos
 
-# Tratamiento de Valores Nulos
+## Tratamiento de Valores Nulos
 
 Parto de un dataset que cuenta con varios **atributos con valores nulos**. A continuación voy a proceder a ejecutar diversas acciones para el tratamiento de dichos valores.
 
