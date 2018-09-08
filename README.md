@@ -3,11 +3,13 @@ Portfolio Machine Learning
 
 # Portfolio Machine Learning
 
-
+<center>
+ 
 ||**Valores Nulos**|**Outliers**|
 |-|-|-|
 |Preparación de los Datos|[✓](./docs/Missing.md)|b|
 
+<center>
 
 ## Introducción
 
