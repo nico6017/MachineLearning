@@ -13,4 +13,6 @@ Para realizar esto, voy a utilizar el operador replace missing values, teniendo 
 Por último con los restantes valores nulos que aún me quedan, como se trata de una cantidad muy pequeña y despreciable los voy a descartar.
 Voy a tomar el operador Filter Examples y en las opciones avanzadas selecciono no missing valúes lo que borra las tuplas sin valores.
 
+## Tratamiento de Outliers
+
 [Volver](./../README.md)
