@@ -3,6 +3,12 @@ Portfolio Machine Learning
 
 # Portfolio Machine Learning
 
+
+||**Valores Nulos**|**Outliers**|
+|-|-|-|
+|Titanic|["handling missing values"](./docs/missing.md)|b|
+
+
 ## Introducción
 
 ## ¿Qué es Machine Learning?
