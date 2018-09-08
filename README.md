@@ -6,7 +6,7 @@ Portfolio Machine Learning
 
 ||**Valores Nulos**|**Outliers**|
 |-|-|-|
-|Titanic|["handling missing values"](./docs/missing.md)|b|
+|Titanic|["handling missing values"](./docs/Missing.md)|b|
 
 
 ## Introducción
