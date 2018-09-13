@@ -7,7 +7,7 @@ Portfolio Machine Learning
  
 ||**Valores Nulos**|**Outliers**|
 |-|-|-|
-|[Preparación de los Datos](./docs/Missing.md)|  :[✓](./docs/Missing.md#tratamiento-de-valores-nulos): | [✓](./docs/Missing.md#tratamiento-de-outliers)|
+|[Preparación de los Datos](./docs/Missing.md)|:[✓](./docs/Missing.md#tratamiento-de-valores-nulos):| [✓](./docs/Missing.md#tratamiento-de-outliers)|
 
 <center>
 
