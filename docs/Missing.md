@@ -21,7 +21,15 @@ En este caso, se desea predecir si un pasajero del Titanic sobrevive o no conoci
 
 Datos correspondientes a 1309 pasajeros
 
+**Clases:**
+
 2 clases: Si o No
+
+**Valores nulos:**
+Si
+
+**Outliers:**
+Si
 
 **Atributos:**
                 
@@ -39,7 +47,7 @@ Datos correspondientes a 1309 pasajeros
 
 ## Tratamiento de Valores Nulos
 
-Parto de un dataset que cuenta con varios **atributos con valores nulos**. A continuación voy a proceder a ejecutar diversas acciones para el tratamiento de dichos valores.
+Como mencionamos anteriormente, parto de un conjunto de datosque cuenta con varios **atributos con valores nulos**. A continuación voy a proceder a ejecutar diversas acciones para el tratamiento de dichos valores.
 
 Lo primero que voy a hacer es **descartar** dos atributos que cuentan con muchos valores nulos **por estar fuertemente relacionados con el label del dataset.**
 
