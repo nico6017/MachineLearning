@@ -10,8 +10,8 @@
 
 Dentro del Pre-procesamiento de datos podemos encontrar dos grandes categorías:
 La mezcla y la limpieza.
-El objetivo de este trabajo es probar diversas técnicas dentro de éstas categorías y realizar una comparación para determinar cuánto influye en la predicción de la variable objetivo.
-En este caso, se desea predecir si un pasajero del Titanic sobrevive o no conociendo ciertas variables del mismo.
+El objetivo de este trabajo es probar diversas técnicas dentro de éstas categorías.
+En este caso, se parte de un conjunto de datos de supervivencia de pasajeros en el Titanic conociendo determinados atributos de los pasajeros.
 
 
 ### Conjunto de datos
