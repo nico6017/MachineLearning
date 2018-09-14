@@ -9,7 +9,7 @@
 
 En este ejercicio se desea practicar las técnicas de pre procesamiento y obtención estadísticas de un conjunto de datos utilizando funciones en Python. En este caso, se tomarán datos de análisis químicos de diferentes vinos
 
-### Conjunto de datos
+## Conjunto de datos
 
 Archivo CSV con los resultados de un análisis químico realizados sobre vinos creados en la misma región de Italia, pero que derivan de trés cocechas diferentes
 
