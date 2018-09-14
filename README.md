@@ -1,3 +1,4 @@
+
 Portfolio Machine Learning
 
 # Portfolio Machine Learning
@@ -9,19 +10,19 @@ Portfolio Machine Learning
 + [Diferencias con Análisis Estadístico](./README.md#qué-lo-diferencia-del-análisis-estadístico)
 + [Diferencias con Data Mining](./README.md#cómo-se-diferencia-con-data-mining)
 + [Aplicaciones de Machine Learning](./README.md#en-qué-se-aplica)
+       
+#
 
-<center>
-	
-	APLICACIONES PRACTICAS
+##  Trabajos Prácticos
 
-</center>
 
 
 
  
 ||**Valores Nulos**|**Outliers**|
 |:-:|:-:|:-:|
-|[Preparación de los Datos](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|  
+|**Preparación de los Datos**|||
+|[Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|  
 
 
 #
