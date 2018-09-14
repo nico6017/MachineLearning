@@ -35,7 +35,6 @@ Si bien hay muchas definiciones, podemos encontrar un tronco común que define a
 
 En este marco entonces, el **Machine Learning** o “Aprendizaje Automático” es el campo de la Inteligencia Artificial que busca **dotar a esas máquinas, capacidad de aprendizaje**
 
-#
 
 ### ¿Qué tiene en común y en qué se diferencia de la Inteligencia Artificial?
  La respuesta es que Machine Learning es una disciplina dentro de la Inteligencia Artificial, es decir que la Inteligencia Artificial es un concepto más macro.
