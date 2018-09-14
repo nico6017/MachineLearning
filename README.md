@@ -3,9 +3,19 @@ Portfolio Machine Learning
 # Portfolio Machine Learning
 
 **[Introducción](./README.md#introducción)**
+
 + [¿Qué es Machine Learning?](./README.md#qué-es-machine-learning)
 + [Diferencias con la Inteligencia Artificial](./README.md#qué-tiene-en-común-y-en-qué-se-diferencia-de-la-inteligencia-artificial)
 + [Diferencias con Análisis Estadístico](./README.md#qué-lo-diferencia-del-análisis-estadístico)
++ [Diferencias con Data Mining](./README.md#cómo-se-diferencia-con-data-mining)
++ [Aplicaciones de Machine Learning](./README.md#en-qué-se-aplica)
+
+<center>
+	
+	APLICACIONES PRACTICAS
+
+</center>
+
 
 
  
