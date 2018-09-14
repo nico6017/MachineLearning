@@ -1,7 +1,34 @@
-
 # Supervivencia en el Titanic
 
 ![](./Interior3.jpg)
+
+## Objetivo
+
+Dentro del Pre-procesamiento de datos podemos encontrar dos grandes categorías:
+La mezcla y la limpieza.
+El objetivo de este trabajo es probar diversas técnicas dentro de éstas categorías y realizar una comparación para determinar cuánto influye en la predicción de la variable objetivo.
+En este caso, se desea predecir si un pasajero del Titanic sobrevive o no conociendo ciertas variables del mismo.
+
+
+### Conjunto de datos
+
+Datos correspondientes a 1309 pasajeros
+
+2 clases: Si o No
+
+**Atributos:**
+                
++ Clase del Pasajero
++ Nombre
++ Sexo
++ Edad
++ Numero de ticket
++ Cabina
++ Costo
++ Puerto de embarque
++ Bote Salvavidas
++ **Sobrevive** (Variable Objetivo)
+
 
 ## Tratamiento de Valores Nulos
 
@@ -19,5 +46,3 @@ Voy a tomar el operador Filter Examples y en las opciones avanzadas selecciono n
 ## Tratamiento de Outliers
 
 [Volver](./../README.md)
-
-
