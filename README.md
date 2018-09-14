@@ -44,16 +44,15 @@ Hoy se dice que la Inteligencia Artificial es el futuro de la tecnología y eso 
 A continuación, veamos algunas de las aplicaciones más relevantes de hoy en día:
 
 
-
 ![](./Mal.png)
 
-
-
-##### Seguridad de los datos
+##### 1- Seguridad de los datos
 
 * Si bien el software malicioso aumenta día a día, la mayoría del malware suele contener patrones y código en común, para lo cual se utiliza Machine Learning en la detección de dichas similitudes.
 
-##### Seguridad personal
+##### 2- Seguridad personal
+
+* Aeropuertos, edificios con zonas de seguridad adicional, datacenters y muchos otros lugares que poseen ingreso de personas las cuales deben de ser revisadas mediante detectores de metales, scaners y otros dispositivos de seguridad. Allí el machine learning es aplicado para aligerar dichos controles de seguridad, ya que puede ayudar a eliminar falsas alarmas y detectar anomalías en las proyecciones de seguridad
 
 
  - [Herramientas y Plafaformas]
