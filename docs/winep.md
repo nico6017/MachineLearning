@@ -84,8 +84,6 @@ def PandasPrint(dataset):
 
 ## Máximos y mínimos por columna
 
-![](./max.png)
-
 ```pyhton
 def minmaxCol(dataset):
     data = pd.read_csv(dataset)
