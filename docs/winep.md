@@ -41,3 +41,25 @@ Si
 + Cue
 + OD280/OD315
 + Proline
+
+## Impresión de registros
+
+En python podremos utilizar el siguiente método para poder imprimir una X cantidad de registros de nuestro archivo CSV
+
+
+```pyhton
+def imprime10(filename):
+    dataset = list()
+    with open(filename, 'r') as file:
+        csv_reader = reader(file)
+        a = 10
+        for row in csv_reader:
+            if not row:
+                continue
+            dataset.append(row)
+            a = a - 1
+            print (row)
+            if a == 0:
+                break
+        return dataset
+```
