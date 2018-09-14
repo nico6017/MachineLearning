@@ -1,7 +1,7 @@
 
 # Supervivencia en el Titanic
 
-![](./docs/Interior3.png)
+![](./docs/Interior3.jpg)
 
 ## Tratamiento de Valores Nulos
 
