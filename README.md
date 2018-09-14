@@ -75,33 +75,33 @@ A continuación, veamos algunas de las aplicaciones más relevantes de hoy en d�
 
 #### 3- Mercado de valores
 
-Poder predecir diferentes variables del mercado de divisas sin dudas que es atractivo. Hoy en día se está usando Machine Learning con el objetivo de intentar deducir movimientos en la bolsa de valores, incluso en la realización de bots para operar en dichos mercados.
+* Poder predecir diferentes variables del mercado de divisas sin dudas que es atractivo. Hoy en día se está usando Machine Learning con el objetivo de intentar deducir movimientos en la bolsa de valores, incluso en la realización de bots para operar en dichos mercados.
 
 #### 4- Cuidados de la Salud
 
-Otro campo en el cual Machine Learning tiene muchísimo para crecer y aportar es la Salud. La predicción de enfermedades, ataques cardíacos, posibilidad de contraer enfermedades en el futuro y un sin fin de usos que mejorarán la atención médica en el futuro.
+* Otro campo en el cual Machine Learning tiene muchísimo para crecer y aportar es la Salud. La predicción de enfermedades, ataques cardíacos, posibilidad de contraer enfermedades en el futuro y un sin fin de usos que mejorarán la atención médica en el futuro.
 
 #### 5- Marketing
 
-En el área del marketing el Machine Learning también encuentra un nicho importante y es que se intenta ir hacia el marketing personalizado, el cual se basa en un sencillo principio: mientras más se pueda saber sobre el cliente y su comportamiento, mejor se le podrá atender y se traducirá en más ventas.
+* En el área del marketing el Machine Learning también encuentra un nicho importante y es que se intenta ir hacia el marketing personalizado, el cual se basa en un sencillo principio: mientras más se pueda saber sobre el cliente y su comportamiento, mejor se le podrá atender y se traducirá en más ventas.
 
 #### 6- Detección de Fraudes
 
-Se utiliza para detectar posibles casos de fraude en diferentes campos. Por ejemplo, PayPal ya utiliza el machine learning para combatir el blanqueo de dinero; la compañía tiene herramientas que comparan millones de transacciones y pueden distinguir con precisión entre transacciones legítimas y fraudulentas, entre compradores y vendedores.
+* Se utiliza para detectar posibles casos de fraude en diferentes campos. Por ejemplo, PayPal ya utiliza el machine learning para combatir el blanqueo de dinero; la compañía tiene herramientas que comparan millones de transacciones y pueden distinguir con precisión entre transacciones legítimas y fraudulentas, entre compradores y vendedores.
 
 #### 7- Recomendaciones en e-commerce
 
-Los algoritmos de machine learning permiten analizar la actividad de un usuario en plataformas como Amazon, Ebay, MercadoLibre, etc y compararla con la del resto de usuarios para determinar qué le gustaría ver o comprar en próximas ocasiones. En este campo los avances son increíbles, por ejemplo, gracias a esos algoritmos las plataformas pueden detectar que un usuario está comprando un artículo que no es para él, sino para regalar.
+* Los algoritmos de machine learning permiten analizar la actividad de un usuario en plataformas como Amazon, Ebay, MercadoLibre, etc y compararla con la del resto de usuarios para determinar qué le gustaría ver o comprar en próximas ocasiones. En este campo los avances son increíbles, por ejemplo, gracias a esos algoritmos las plataformas pueden detectar que un usuario está comprando un artículo que no es para él, sino para regalar.
 
 #### 8- Búsquedas en la web
 
-No podía faltar en un ranking de los usos más importantes, el uso más famoso del Machine Learning. Google y sus competidores mejoran constantemente lo que entiende el motor de búsqueda. Cada vez que se ejecuta una búsqueda en Google, el programa observa cómo responde a los resultados. Si un usuario hace clic en el resultado superior y permanece en esa página web, podemos suponer que obtuvo la información que estaba buscando y que la búsqueda fue un éxito.
+* No podía faltar en un ranking de los usos más importantes, el uso más famoso del Machine Learning. Google y sus competidores mejoran constantemente lo que entiende el motor de búsqueda. Cada vez que se ejecuta una búsqueda en Google, el programa observa cómo responde a los resultados. Si un usuario hace clic en el resultado superior y permanece en esa página web, podemos suponer que obtuvo la información que estaba buscando y que la búsqueda fue un éxito.
 
 Si, por otro lado, hace clic en la segunda página de resultados, o escribe una nueva cadena de búsqueda sin hacer clic en ninguno de los resultados, podemos deducir que el motor de búsqueda no proporcionó los resultados que deseaba, y el programa puede aprender de ese error para ofrecer un mejor resultado en el futuro.
 
 #### 9- Vehículos Inteligentes
 
-Se espera que en 2025 ya podamos ver coches inteligentes y autónomos en muchas partes del mundo. En este marco, un coche inteligente no solo se integraría en IoT, sino que también aprendería sobre su propietario y su entorno. Estos vehículos podrían ajustar la configuración interna (temperatura, audio, posición del asiento, etc.) de forma automática en función del conductor, informar e incluso solucionar problemas, y conducir y ofrecer asesoramiento en tiempo real sobre el tráfico y las condiciones de la carretera.
+* Se espera que en 2025 ya podamos ver coches inteligentes y autónomos en muchas partes del mundo. En este marco, un coche inteligente no solo se integraría en IoT, sino que también aprendería sobre su propietario y su entorno. Estos vehículos podrían ajustar la configuración interna (temperatura, audio, posición del asiento, etc.) de forma automática en función del conductor, informar e incluso solucionar problemas, y conducir y ofrecer asesoramiento en tiempo real sobre el tráfico y las condiciones de la carretera.
 
 
 
