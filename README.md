@@ -45,7 +45,7 @@ A continuación, veamos algunas de las aplicaciones más relevantes de hoy en d�
 
 
 
-![](./mal.png)
+![](./Mal.png)
 
 
 
