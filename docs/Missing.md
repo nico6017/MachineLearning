@@ -1,8 +1,7 @@
 
 # Supervivencia en el Titanic	
 
-
-
+`HERRAMIENTA UTILIZADA: RAPIDMINER`
 
 
 ![](./Interior3.jpg)
@@ -45,13 +44,27 @@ Si
 
 ## Tratamiento de Valores Nulos
 
-Como mencionamos anteriormente, parto de un conjunto de datosque cuenta con varios **atributos con valores nulos**. A continuación voy a proceder a ejecutar diversas acciones para el tratamiento de dichos valores.
+Como mencionamos anteriormente, parto de un conjunto de datos que cuenta con varios **atributos con valores nulos**.
 
-Lo primero que voy a hacer es **descartar** dos atributos que cuentan con muchos valores nulos **por estar fuertemente relacionados con el label del dataset.**
+A continuación voy a proceder a ejecutar diversas acciones para el tratamiento de dichos valores.
 
-Para ello utilizo el **operador** **select attributes** conectado al dataset y me quedo con todos los atributos menos esos dos.
+Lo primero que voy a hacer es **DESCARTAR** dos atributos del conjunto de datos ya que ambos cuentan con demasiados valores nulos y por lo tanto no me son útiles. 
 
-Para resolver los valores faltantes del atributo age, que tiene bastantes, utilizo otra de las técnicas normalmente usadas: reemplazar valores nulos por el promedio del resto de los valores.
+Descarto entonces:
+
++ Bote Salvavidas
++ Cabina
+
+> Para descartar utilizo el **operador** **select attributes** y con el parámetro **subset** filtro todos los atributos menos esos dos.
+
+En el conjunto de datos también tenemos algunos faltantes en el atributo **edad**.
+
+Para resolver esto voy a utilizar otra de las técnicas normalmente usadas: **REEMPLAZAR POR EL PROMEDIO** del resto de los valores.
+
+Reemplazo entonces:
+
++ Valores nulos de EDAD por valores promedio
+
 Para realizar esto, voy a utilizar el operador replace missing values, teniendo en cuenta como parámetro single que significa remplazar por el promedio.
 Por último con los restantes valores nulos que aún me quedan, como se trata de una cantidad muy pequeña y despreciable los voy a descartar.
 Voy a tomar el operador Filter Examples y en las opciones avanzadas selecciono no missing valúes lo que borra las tuplas sin valores.
