@@ -2,6 +2,7 @@ Portfolio Machine Learning
 
 # Portfolio Machine Learning
 
+[Introducción](./docs/Missing.md#introduccion)
 
  
 ||**Valores Nulos**|**Outliers**|
