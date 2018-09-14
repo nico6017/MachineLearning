@@ -1,4 +1,11 @@
-# Supervivencia en el Titanic
+<center>
+
+# Supervivencia en el Titanic	
+
+</center>
+
+
+
 
 ![](./Interior3.jpg)
 
