@@ -2,7 +2,7 @@ Portfolio Machine Learning
 
 # Portfolio Machine Learning
 
-[Introducción](./../README.md#introducción)
+[Introducción](./README.md#introducción)
 
  
 ||**Valores Nulos**|**Outliers**|
