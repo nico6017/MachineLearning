@@ -35,6 +35,7 @@ Si
 + Alcalinidad de Ceniza
 + Magnesio
 + Fenoles totales
++ Flavanoids
 + Fenoles no flavonoides
 + Proanthocyanidins
 + Intensidad del Color
@@ -63,3 +64,5 @@ def imprime10(filename):
                 break
         return dataset
 ```
+
+## Impresión de registros
