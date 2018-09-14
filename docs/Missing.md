@@ -71,8 +71,31 @@ Para finalizar, aún me quedan valores nulos pero como se trata de una cantidad 
 
 > Para descartar registros, tomo el **operador Filter Examples** y en las opciones avanzadas selecciono **no missing valúes** lo que borra las tuplas sin valores.
 
-![](./mis.png)
+![](./mis.jpg)
 
 ## Tratamiento de Outliers
+
+Si bien puede que haya algunos casos para los cuales los valores anómalos o outliers resulten interesantes (como el caso de tarjetas de crédito fraudulentas). En general los outliers son malas mediciones y debemos removerlos.
+
+Para la detección de outilers del conjunto de datos, utilizaremos en este caso un algoritmo basado en distancias, particularmente el [**Algoritmo de Distancias Euclideanas**](./Euclidean.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Volver](./../README.md)
