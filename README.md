@@ -11,7 +11,6 @@ Portfolio Machine Learning
 + [Diferencias con Data Mining](./README.md#cómo-se-diferencia-con-data-mining)
 + [Aplicaciones de Machine Learning](./README.md#en-qué-se-aplica)
        
-#
 
 ##  Trabajos Prácticos
 
@@ -24,8 +23,6 @@ Portfolio Machine Learning
 |**Preparación de los Datos**|||
 |[Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|  
 
-
-#
 
 
 ## Introducción  
@@ -48,18 +45,15 @@ En este marco entonces, el **Machine Learning** o “Aprendizaje Automático” 
  
 Yendo al punto donde ambos conceptos se distancian, la inteligencia artificial engloba la idea de que las máquinas realicen acciones emulando el comportamiento humano. mientras que machine learning es la disciplina que trata puntualmente el area del aprendizaje. se podría decir que machine learning es el motor de la inteligencia artificial
 
-#
 
 ### ¿Qué lo diferencia del análisis estadístico?
 Si bien Machine Learning utiliza estadísticas para la resolución de problemas, aborda cuestiones totalmente por fuera del campo de la estadística, como por ejemplo mantener conversaciones como si se tratase de un humano, reconocer patrones, reconocer imágenes, dirigir vehículos.
 
-#
 
 ### ¿Cómo se diferencia con Data Mining?
 En pocas palabras podríamos decir que Data Mining se trata de algo más puntual con un objetivo particular.
 La minería de datos, se focaliza en descubrir ciertas propiedades a partir de un conjunto de datos, se realiza sobre un set de datos en particular, con un criterio y objetivo específico. Por otra parte, Machine Learning está enfocada en el diseño de algoritmos que puedan aprender y realizar predicciones a partir de un conjunto de datos.
 
-#
 
 ### ¿En qué se aplica?
 En pocas palabras podríamos decir que Data Mining se trata de algo más puntual con un objetivo particular.
