@@ -1,6 +1,8 @@
 # Pre-Procesamiento en Pyhton
 
-`HERRAMIENTA UTILIZADA: PYTHON`
+`HERRAMIENTAS UTILIZADAS: PYTHON Y PANDAS`
+
+[**HERRAMIENTA PANDAS**](./pandas.md)
 
 ![](./wine.png)
 
@@ -41,7 +43,7 @@ Si
 + Intensidad del Color
 + Cue
 + OD280/OD315
-+ Proline
++ Proline	
 
 ## Impresión de registros
 
