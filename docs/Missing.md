@@ -77,16 +77,29 @@ Para finalizar, aún me quedan valores nulos pero como se trata de una cantidad 
 
 Si bien puede que haya algunos casos para los cuales los valores anómalos o outliers resulten interesantes (como el caso de tarjetas de crédito fraudulentas). En general los outliers son malas mediciones y debemos removerlos.
 
-Para la detección de outilers del conjunto de datos, utilizaremos en este caso un algoritmo basado en distancias, particularmente el [**Algoritmo de Distancias Euclideanas**](./Euclidean.md)
+Para la detección de outilers del conjunto de datos, utilizaremos en este caso un algoritmo basado en distancias, particularmente el [**Algoritmo de Distancias Euclideanas**](./Euclidean.md). Debido al uso de este algoritmo, aquellos atributos con grandes valores contribuirán en mayor medida a la detección de outliers. Además, vamos a necesitar que los valores posean un rango similar (normalización).
 
+Para realizar esto vamos a descartar ciertos atributos que no contribuyen a nuestra búsqueda de outliers.
 
+Descarto entonces:
 
++ Bote Salvavidas
++ Cabina
++ Número de Ticket
 
+> Para descartar utilizo el **operador select attributes** y con el parámetro **subset** filtro los atributos deseados.
 
+A continuación y como mencionamos **normalizaremos** el conjunto de datos restante, en general este proceso se debe realizar siempre antes de aplicar cualquier algoritmo basado en distancias.
 
+> Para descartar utilizo el **operador normalize**.
 
+Con los datos preparados para la ejecución del algoritmo, realizamos las distancias euclideanas y seleccionamos aquellas que están muy lejos del rango de valores de los datos.
 
+> Para realizar las distancias euclideanas en la detección de outliers utilizo el **operador outlier detection (distances)**.
 
+![](./out.png)
+
+Como vemos en la imagen, Rapidminer agregó una columna más y nos detectó los 10 (configurable) valores más alejados del conjunto de datos.
 
 
 
