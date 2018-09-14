@@ -16,7 +16,7 @@ Portfolio Machine Learning
 
 ## Introducción  
 
-## ¿Qué es Machine Learning?  
+### ¿Qué es Machine Learning?  
 
 Entendemos al Machine Learning como una rama de la **Inteligencia Artificial**, es por eso que para tener una clara referencia de lo que estamos hablando, tenemos que definir la Inteligencia Artificial.
 
@@ -26,7 +26,7 @@ En este marco entonces, el **Machine Learning** o “Aprendizaje Automático” 
 
 #
 
-##### ¿Qué tiene en común y en qué se diferencia de la Inteligencia Artificial ?
+### ¿Qué tiene en común y en qué se diferencia de la Inteligencia Artificial ?
  La respuesta es que Machine Learning es una disciplina dentro de la Inteligencia Artificial, es decir que la Inteligencia Artificial es un concepto más macro.
 
  Podemos comenzar por un punto común que ambos conceptos persiguen:
@@ -36,18 +36,18 @@ Yendo al punto donde ambos conceptos se distancian, la inteligencia artificial e
 
 #
 
-##### ¿Qué lo diferencia del análisis estadístico?
+### ¿Qué lo diferencia del análisis estadístico?
 Si bien Machine Learning utiliza estadísticas para la resolución de problemas, aborda cuestiones totalmente por fuera del campo de la estadística, como por ejemplo mantener conversaciones como si se tratase de un humano, reconocer patrones, reconocer imágenes, dirigir vehículos.
 
 #
 
-##### ¿Cómo se diferencia con Data Mining?
+### ¿Cómo se diferencia con Data Mining?
 En pocas palabras podríamos decir que Data Mining se trata de algo más puntual con un objetivo particular.
 La minería de datos, se focaliza en descubrir ciertas propiedades a partir de un conjunto de datos, se realiza sobre un set de datos en particular, con un criterio y objetivo específico. Por otra parte, Machine Learning está enfocada en el diseño de algoritmos que puedan aprender y realizar predicciones a partir de un conjunto de datos.
 
 #
 
-##### ¿En qué se aplica?
+### ¿En qué se aplica?
 En pocas palabras podríamos decir que Data Mining se trata de algo más puntual con un objetivo particular.
 La minería de datos, se focaliza en descubrir ciertas propiedades a partir de un conjunto de datos, se realiza sobre un set de datos en particular, con un criterio y objetivo específico. Por otra parte, Machine Learning está enfocada en el diseño de algoritmos que puedan aprender y realizar predicciones a partir de un conjunto de datos.
 
