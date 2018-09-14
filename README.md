@@ -4,6 +4,9 @@ Portfolio Machine Learning
 
 **[Introducción](./README.md#introducción)**
 + [¿Qué es Machine Learning?](./README.md#qué-es-machine-learning)
++ [Diferencias con la Inteligencia Artificial](./README.md#qué-tiene-en-común-y-en-qué-se-diferencia-de-la-inteligencia-artificial)
++ [Diferencias con Análisis Estadístico](./README.md#qué-lo-diferencia-del-análisis-estadístico)
+
 
  
 ||**Valores Nulos**|**Outliers**|
@@ -26,7 +29,7 @@ En este marco entonces, el **Machine Learning** o “Aprendizaje Automático” 
 
 #
 
-### ¿Qué tiene en común y en qué se diferencia de la Inteligencia Artificial ?
+### ¿Qué tiene en común y en qué se diferencia de la Inteligencia Artificial?
  La respuesta es que Machine Learning es una disciplina dentro de la Inteligencia Artificial, es decir que la Inteligencia Artificial es un concepto más macro.
 
  Podemos comenzar por un punto común que ambos conceptos persiguen:
