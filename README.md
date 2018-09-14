@@ -21,7 +21,8 @@ Portfolio Machine Learning
 ||**Valores Nulos**|**Outliers**|**RapidMiner**|
 |:-:|:-:|:-:|:-:|
 |**Preparación de los Datos**||||
-|[Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|  
+|[Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|
+|[Análisis Químico de Vinos](./docs/winep.md)||||  
 
 
 
