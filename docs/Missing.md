@@ -107,6 +107,9 @@ Ahora solo nos resta limpiar nuestro conjunto de datos filtrando descartando eso
 
 ![](./outfin.png)
 
+## Conclusiones
+
+En este ejemplo vimos algunas de las técnicas utilizadas al procesar los datos con la herramienta RapidMiner. Tanto para el tratamiento de valores nulos como outliers, es importante ver que, si bien el software tiene operadores puntuales para el tratamiento de valores nulos y anomalías, son necesarias operaciones previas y posteriores para poder realizar una correcta limpieza del conjunto de datos.
 
 
 
