@@ -71,7 +71,7 @@ Para finalizar, aún me quedan valores nulos pero como se trata de una cantidad 
 
 > Para descartar registros, tomo el **operador Filter Examples** y en las opciones avanzadas selecciono **no missing valúes** lo que borra las tuplas sin valores.
 
-![](./mis.jpg)
+![](./mis.png)
 
 ## Tratamiento de Outliers
 
