@@ -6,7 +6,6 @@
 
 ![](./wine.png)
 
-
 ## Objetivo
 
 En este ejercicio se desea practicar las técnicas de pre procesamiento y obtención estadísticas de un conjunto de datos utilizando funciones en Python. En este caso, se tomarán datos de análisis químicos de diferentes vinos
@@ -45,6 +44,13 @@ Si
 + OD280/OD315
 + Proline	
 
+## Limpieza y análisis previo en archivos CSV
+
+Normalmente los archivos CSV requieren de un procesamiento previo por cuestiones de formato.
+
+En este caso se utilizó la herraminta Excel para insertarle un cabezal cuyas columnnas correspondan a cada atributo.
+
+
 ## Impresión de registros
 
 En python podremos utilizar el siguiente método para poder imprimir una X cantidad de registros de nuestro archivo CSV
@@ -65,6 +71,15 @@ def imprime10(filename):
             if a == 0:
                 break
         return dataset
+```
+
+Sin embargo, utilizando la herramienta Pandas ya mencionada, la tarea de imprimir ciertos registros se reduce a un código mucho más simple:
+
+```pyhton
+def PandasPrint(dataset):
+    data = pd.read_csv(dataset)
+    print(data.head(10))
+    return data
 ```
 
 ## Impresión de registros
