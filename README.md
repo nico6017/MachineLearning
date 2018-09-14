@@ -1,4 +1,3 @@
-
 Portfolio Machine Learning
 
 # Portfolio Machine Learning
@@ -54,6 +53,28 @@ A continuación, veamos algunas de las aplicaciones más relevantes de hoy en d�
 
 * Aeropuertos, edificios con zonas de seguridad adicional, datacenters y muchos otros lugares que poseen ingreso de personas las cuales deben de ser revisadas mediante detectores de metales, scaners y otros dispositivos de seguridad. Allí el machine learning es aplicado para aligerar dichos controles de seguridad, ya que puede ayudar a eliminar falsas alarmas y detectar anomalías en las proyecciones de seguridad
 
+##### 3- Mercado de valores
+
+Poder predecir diferentes variables del mercado de divisas sin dudas que es atractivo. Hoy en día se está usando Machine Learning con el objetivo de intentar deducir movimientos en la bolsa de valores, incluso en la realización de bots para operar en dichos mercados.
+
+##### 4- Cuidados de la Salud
+
+Otro campo en el cual Machine Learning tiene muchísimo para crecer y aportar es la Salud. La predicción de enfermedades, ataques cardíacos, posibilidad de contraer enfermedades en el futuro y un sin fin de usos que mejorarán la atención médica en el futuro.
+
+##### 5- Marketing
+
+En el área del marketing el Machine Learning también encuentra un nicho importante y es que se intenta ir hacia el marketing personalizado, el cual se basa en un sencillo principio: mientras más se pueda saber sobre el cliente y su comportamiento, mejor se le podrá atender y se traducirá en más ventas.
+
+##### 6- Detección de Fraudes
+
+##### 7- Recomendaciones en e-commerce
+
+##### 8- Búsquedas en la web
+
+##### 9- Vehículos Inteligentes
+
+
+
 
  - [Herramientas y Plafaformas]
  - [Procesos de Datascience]
@@ -63,6 +84,4 @@ A continuación, veamos algunas de las aplicaciones más relevantes de hoy en d�
 ## Preparacion de los datos
 
  [Valores nulos, normalización y outliers](https://github.com/nico6017/MachineLearning/blob/master/PRACTICOS%20DOMICILIARIOS%20%20UT02.pdf)
-
-
 
