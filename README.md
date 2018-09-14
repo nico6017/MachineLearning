@@ -112,13 +112,3 @@ Se espera que en 2025 ya podamos ver coches inteligentes y autónomos en muchas 
 
 
 
- - [Herramientas y Plafaformas]
- - [Procesos de Datascience]
- - [Analisis de un Dataset]
-
-
-## Preparacion de los datos
-
- [Valores nulos, normalización y outliers](https://github.com/nico6017/MachineLearning/blob/master/PRACTICOS%20DOMICILIARIOS%20%20UT02.pdf)
-
-
