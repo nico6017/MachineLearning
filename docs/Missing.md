@@ -1,4 +1,7 @@
-# Preparación de los datos
+
+# Supervivencia en el Titanic
+
+
 
 ## Tratamiento de Valores Nulos
 
@@ -16,3 +19,5 @@ Voy a tomar el operador Filter Examples y en las opciones avanzadas selecciono n
 ## Tratamiento de Outliers
 
 [Volver](./../README.md)
+
+
