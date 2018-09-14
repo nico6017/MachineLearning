@@ -55,7 +55,7 @@ Descarto entonces:
 + Bote Salvavidas
 + Cabina
 
-> Para descartar utilizo el **operador** **select attributes** y con el parámetro **subset** filtro todos los atributos menos esos dos.
+> Para descartar utilizo el **operador select attributes** y con el parámetro **subset** filtro todos los atributos menos esos dos.
 
 En el conjunto de datos también tenemos algunos faltantes en el atributo **edad**.
 
@@ -65,9 +65,11 @@ Reemplazo entonces:
 
 + Valores nulos de EDAD por valores promedio
 
-Para realizar esto, voy a utilizar el operador replace missing values, teniendo en cuenta como parámetro single que significa remplazar por el promedio.
-Por último con los restantes valores nulos que aún me quedan, como se trata de una cantidad muy pequeña y despreciable los voy a descartar.
-Voy a tomar el operador Filter Examples y en las opciones avanzadas selecciono no missing valúes lo que borra las tuplas sin valores.
+> Para reemplazar utilizo el **operador replace missing values**, con parámetro **single** que significa remplazar por el promedio.
+
+Para finalizar, aún me quedan valores nulos pero como se trata de una cantidad muy pequeña y despreciable voy a **DESCARTAR REGISTROS**.
+
+> Para descartar registros, tomo el **operador Filter Examples** y en las opciones avanzadas selecciono **no missing valúes** lo que borra las tuplas sin valores.
 
 ## Tratamiento de Outliers
 
