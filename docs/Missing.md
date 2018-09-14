@@ -101,6 +101,11 @@ Con los datos preparados para la ejecución del algoritmo, realizamos las distan
 
 Como vemos en la imagen, Rapidminer agregó una columna más y nos detectó los 10 (configurable) valores más alejados del conjunto de datos.
 
+Ahora solo nos resta limpiar nuestro conjunto de datos filtrando descartando esos outliers detectados:
+
+> Para descartar registros, tomo el **operador Filter Examples** y agrego un filtro para mostrar solo aquellos registros cuyo valor para la columna outlier es "false"
+
+![](./outfin.png)
 
 
 
