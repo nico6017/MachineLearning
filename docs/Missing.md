@@ -1,8 +1,6 @@
-<center>
 
 # Supervivencia en el Titanic	
 
-</center>
 
 
 
