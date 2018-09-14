@@ -96,7 +96,6 @@ A continuación, veamos algunas de las aplicaciones más relevantes de hoy en d�
 #### 8- Búsquedas en la web
 
 * No podía faltar en un ranking de los usos más importantes, el uso más famoso del Machine Learning. Google y sus competidores mejoran constantemente lo que entiende el motor de búsqueda. Cada vez que se ejecuta una búsqueda en Google, el programa observa cómo responde a los resultados. Si un usuario hace clic en el resultado superior y permanece en esa página web, podemos suponer que obtuvo la información que estaba buscando y que la búsqueda fue un éxito.
-
 Si, por otro lado, hace clic en la segunda página de resultados, o escribe una nueva cadena de búsqueda sin hacer clic en ninguno de los resultados, podemos deducir que el motor de búsqueda no proporcionó los resultados que deseaba, y el programa puede aprender de ese error para ofrecer un mejor resultado en el futuro.
 
 #### 9- Vehículos Inteligentes
