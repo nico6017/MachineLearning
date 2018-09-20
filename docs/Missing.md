@@ -71,7 +71,7 @@ Para finalizar, aún me quedan valores nulos pero como se trata de una cantidad 
 
 > Para descartar registros, tomo el **operador Filter Examples** y en las opciones avanzadas selecciono **no missing valúes** lo que borra las tuplas sin valores.
 
-![](./mis.png)
+![](./images/mis.png)
 
 ## Tratamiento de Outliers
 
@@ -97,7 +97,7 @@ Con los datos preparados para la ejecución del algoritmo, realizamos las distan
 
 > Para realizar las distancias euclideanas en la detección de outliers utilizo el **operador outlier detection (distances)**.
 
-![](./out.png)
+![](./images/out.png)
 
 Como vemos en la imagen, Rapidminer agregó una columna más y nos detectó los 10 (configurable) valores más alejados del conjunto de datos.
 
@@ -105,7 +105,7 @@ Ahora solo nos resta limpiar nuestro conjunto de datos filtrando descartando eso
 
 > Para descartar registros, tomo el **operador Filter Examples** y agrego un filtro para mostrar solo aquellos registros cuyo valor para la columna outlier es "false"
 
-![](./outfin.png)
+![](./images/outfin.png)
 
 ## Conclusiones
 
