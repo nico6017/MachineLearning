@@ -4,7 +4,7 @@
 `HERRAMIENTA UTILIZADA: RAPIDMINER`
 
 
-![](./Interior3.jpg)
+![](./images/Interior3.jpg)
 
 ## Objetivo
 
