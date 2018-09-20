@@ -22,8 +22,9 @@ Portfolio Machine Learning
 |:-:|:-:|:-:|:-:|
 |**Preparación de los Datos**||||
 |[Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|
-|[Análisis Químico de Vinos](./docs/winep.md)||||  
-
+|[Análisis Químico de Vinos](./docs/winep.md)||||
+|**Algoritmos Lineales**||||  
+|[Regresión Lineal](./docs/regresion.md)||||
 
 
 ## Introducción  
