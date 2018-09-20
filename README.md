@@ -65,7 +65,6 @@ A continuación, veamos algunas de las aplicaciones más relevantes de hoy en d�
 
 
 ![](./docs/images/Mal.png)
-![](./docs/images/Mal.png)
 
 #### 1- Seguridad de los datos
 
