@@ -1,6 +1,6 @@
 # Pandas
 
-![](./pandas.png)
+![](./images/pandas.png)
 
 Pandas es una librería de python específica para el análisis de datos.
 
