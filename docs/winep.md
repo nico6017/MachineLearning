@@ -4,7 +4,7 @@
 
 [**HERRAMIENTA PANDAS**](./pandas.md)
 
-![](./wine.png)
+![](./images/wine.png)
 
 ## Objetivo
 
