@@ -64,7 +64,7 @@ Hoy se dice que la Inteligencia Artificial es el futuro de la tecnología y eso 
 A continuación, veamos algunas de las aplicaciones más relevantes de hoy en día:
 
 
-![](MachineLearning/docs/images/Mal.png)
+![](./Mal.png)
 
 #### 1- Seguridad de los datos
 
