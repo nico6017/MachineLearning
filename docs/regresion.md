@@ -6,7 +6,7 @@ La Regresión Lineal es un modelo de análisis estadístico que nos permite iden
 
 Dado un conjunto de datos de valores de X y su respectivo Y, si graficamos por ejemplo realizando un diagrama de dispersión entre las variables, podemos determinar qué tipo de relación existe entre ellas.
 
-![](./docs/images/disper.png)
+![](./images/disper.png)
 
 En el caso de la imagen, vemos dos casos en donde podríamos trazar una recta "promedio" entre los puntos.
 
