@@ -29,16 +29,16 @@ A continuación intentaremos deducir la ecuación lineal que define la relación
 
 Mejoremos entonces la tabla con datos que utilizaremos luego:
 
-|**X**|**Y**|
-|:-:|:-:|
-|2|1|
-|3|3|
-|5|7|
-|7|11|
-|9|15|
-|10|17|
-|||
-|Σx=36|Σy=54|
+|**X**|**Y**|**X.Y**|**x^2**
+|:-:|:-:|:-:|:-:
+|2|1|2|4
+|3|3|9|9
+|5|7|35|25
+|7|11|77|49
+|9|15|135|81
+|10|17|170|100
+||||
+|Σx=36|Σy=54|Σxy=428|Σx^2=268
 
 
 [Volver al inicio](./../README.md)
