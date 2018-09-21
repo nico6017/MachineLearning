@@ -23,5 +23,6 @@ Se tiene el total de goles convertidos **(Y)** luego de jugados **(X)** partidos
 |10|17|
 |13|**?**|
 
+Con un sencillo gráfico de dispersión ya puedo notar con claridad la relación lineal de las variables:![](./images/graf1.png) 
 
 [Volver al inicio](./../README.md)
