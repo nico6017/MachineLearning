@@ -1,5 +1,5 @@
 # Record de goles con Regresión Lineal Simple
-*Véase* [Regresión Lineal](./../README.md)
+*Véase* [Regresión Lineal](./regresion.md)
 
 ![](./images/goles.png)
 
