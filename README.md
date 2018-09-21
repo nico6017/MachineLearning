@@ -21,10 +21,11 @@ Portfolio Machine Learning
 ||**Valores Nulos**|**Outliers**|**RapidMiner**|
 |:-:|:-:|:-:|:-:|
 |**Preparación de los Datos**||||
-|[Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|
-|[Análisis Químico de Vinos](./docs/winep.md)||||
-|**Algoritmos Lineales**||||  
+|[Caso: Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|
+|[Caso: Análisis Químico de Vinos](./docs/winep.md)||||
+|**Algoritmos Lineales**|||| 
 |[Regresión Lineal](./docs/regresion.md)||||
+|[Caso: Goleador de Futbol](./docs/goles.md)||||
 
 
 ## Introducción  
