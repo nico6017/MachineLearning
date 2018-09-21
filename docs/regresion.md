@@ -45,6 +45,7 @@ y este caso no se trataría de encontrar una recta se acople a los puntos, sino 
 ![](./images/plano.png)
 
 
+[Volver](./../README.md)
 
 
 
