@@ -1,5 +1,5 @@
 # Record de goles con Regresión Lineal Simple
-*Véase* [Regresión Lineal](./regresion.md)
+*Véase* [Regresión Lineal](./../README.md)
 
 ![](./images/goles.png)
 
@@ -39,6 +39,39 @@ Mejoremos entonces la tabla con datos que utilizaremos luego:
 |10|17|170|100
 ||||
 |Σx=36|Σy=54|Σxy=428|Σx^2=268
+
+Siguiendo las fórmulas en **Y = a + bx**
+
+#### B = (n * Σxy - Σx * Σy) / (n * Σx^2 - (Σx)^2)
+
+Substituyendo...
+
+#### B = (6 * 428 - 36 * 54) / (6 * 268 - (36)^2)
+
+#### B = 624 / 312
+
+#### B = 2
+
+Pasamos a la a:
+
+#### A = (Σy / n) - b * (Σx / n)
+
+Substituyendo...
+
+#### A = (54 / 6) - 2 * (36 / 6)
+
+#### A = - 3
+
+
+## Y = 2x - 3
+
+En nuestro caso estabamos buscando predecir la cantidad de goles (Y), jugados 13 (X) partidos por tanto:
+
+## Y = 2(13) - 3
+
+## Y = 23
+
+## El record será superado!!
 
 
 [Volver al inicio](./../README.md)
