@@ -3,4 +3,12 @@
 
 ![](./images/goles.png)
 
+A continuación veremos un caso muy sencillo para la aplicación de la regresión lineal:
+
+Un equipo de futbol está jugando una copa, en la cual de llegar hasta la última instancia estaría jugando 13 partidos.
+
+Se llevan jugados 10 partidos y su delantero estrella ha convertido ya 17 goles.
+
+Se desea entonces predecir cuántos goles convertirá al cabo de los 13 partidos (si los jugara) y si alcanzaría el record actual de 21 goles para dicho torneo.
+
 [Volver al inicio](./../README.md)
