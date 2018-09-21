@@ -30,6 +30,8 @@ Tomando la ecuación **y = a + bx** hallaremos **a** y **b** de la siguiente for
 
 ![](./images/mincuad.png)
 
+Una vez hallados a y b tendremos la ecuación: **y = a + bx** y si quisieramos predecir el próximo valor **x+1** solo restaría modificar la **x** de la ecuación por **x+1** (*véase aplicación práctica*)
+
 
 
 
