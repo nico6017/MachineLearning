@@ -30,7 +30,21 @@ Tomando la ecuación **y = a + bx** hallaremos **a** y **b** de la siguiente for
 
 ![](./images/mincuad.png)
 
-Una vez hallados a y b tendremos la ecuación: **y = a + bx** y si quisieramos predecir el próximo valor **x+1** solo restaría modificar la **x** de la ecuación por **x+1** (*véase aplicación práctica*)
+Una vez hallados a y b tendremos la ecuación: **y = a + bx** y si quisieramos predecir el próximo valor **x+1** solo restaría modificar la **x** de la ecuación por **x+1** *vease Aplicación Práctica*
+
+## Regresión Lineal Múltiple
+
+Hasta ahora analizamos que a partir de una relación lineal entre dos variables de un problema, podemos predecir futuros valores mediante regresión. Sin embargo en los problemas de la realidad contamos con muchas otras variables que acomplejarían el análisis.
+
+Por ejemplo, si nuestro problema tuviera dos variables, la nueva ecuación sería la siguiente:
+
+#### y = wo + w1 * x1 + w2 * x2
+
+y este caso no se trataría de encontrar una recta se acople a los puntos, sino un plano:
+
+![](./images/plano.png)
+
+
 
 
 
