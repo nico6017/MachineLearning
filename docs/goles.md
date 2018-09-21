@@ -11,4 +11,6 @@ Se llevan jugados 10 partidos y su delantero estrella ha convertido ya 17 goles.
 
 Se desea entonces predecir cuántos goles convertirá al cabo de los 13 partidos (si los jugara) y si alcanzaría el record actual de 21 goles para dicho torneo.
 
+Se tiene el total de goles convertidos **(Y)** luego de jugados **(X)** partidos
+
 [Volver al inicio](./../README.md)
