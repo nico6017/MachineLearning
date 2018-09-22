@@ -20,7 +20,39 @@ Para completar el modelo debemos de agregar también un último parámetro, el r
 
 # Caso de Análisis
 
-| iteracion | X | Y | b0      | b1      | prediccion | tasa de ap | error    | error2   | b0+1    | b1+1    |
+Dado un conjunto de Valores X e Y como se muestra en la siguiente tabla:
+
+| X | Y |
+|---|---|
+| 1 | 1 |
+| 3 | 2 |
+| 2 | 3 |
+| 4 | 3 |
+| 6 | 2 |
+| 5 | 5 |
+
+Sabiendo los valores de Y, se buscará ejecutar distintas iteraciones del algoritmo buscando que las predicciones mejoren minimizando el error.
+
+Dado que es una regresión la ecuación será:
+
+#### y = a + bx
+
+Llamaremos **b0 y b1** a nuestros **a y b**
+
+Tendremos entonces:
+
+- b0 (comenzando desde 0)
+- b1 (comenzando desde 0)
+- Predicción (y = b0 + b1 * x)
+- Tasa de aprendizaje (el ratio mencionado anteriormente)
+- El error (La predicción - el valor real)
+- Error2: el error elevado al cuadrado
+- El nuevo b0 (el anterior b0 - tasa de aprendizaje * error)
+- El nuevo b1 (el anterior b1 - tasa de aprendizaje * error)
+
+Realizando los calculos obtenemos los siguientes resultados:
+
+| iter| X | Y | b0      | b1      | pred | tasa de ap | error    | error2   | b0+1    | b1+1    |
 |-----------|---|---|---------|---------|------------|------------|----------|----------|---------|---------|
 | 1         | 1 | 1 | 0,00000 | 0,00000 | 0,00000    | 0,01000    | -1,00000 | 1,00000  | 0,01000 | 0,01000 |
 | 2         | 3 | 2 | 0,01000 | 0,01000 | 0,04000    | 0,01000    | -1,96000 | 3,84160  | 0,02960 | 0,06880 |
