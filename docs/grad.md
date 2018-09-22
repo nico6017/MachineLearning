@@ -91,6 +91,13 @@ Realizando los calculos obtenemos los siguientes resultados:
 | 35        | 5 | 5 | 0,21931 | 0,48649 | 2,65177    | 0,01000    | -2,34823 | 5,51420  | 0,24279 | 0,60390 |
 
 
+## Resultados obtenidos
+
+Como primer conclusión podemos observar que luego de la iteración número 20, la predicción se acerca bastante a los valores de Y o b1 y el error se reduce por lo cual alrededor de 25 iteraciones serían apropiadas para este caso.
+
+Si realizamos una gráfica del **ERROR** en función de las **ITERACIONES** visualizamos que el error disminuye hasta las 20-25 iteraciones, en donde comienza a aumentar nuevamente
+
+![](./images/error.png) 
 
 
 [Volver](./../README.md)
