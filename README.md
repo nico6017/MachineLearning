@@ -18,7 +18,7 @@ Portfolio Machine Learning
 
 
  
-||**Valores Nulos**|**Outliers**|**RapidMiner**|
+||**Valores Nulos**|**Outliers**|**RapidMiner**|**Tunning de Parámetros**|
 |:-:|:-:|:-:|:-:|
 |**Preparación de los Datos**||||
 |[Caso: Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|
