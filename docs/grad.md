@@ -97,7 +97,7 @@ Como primer conclusión podemos observar que luego de la iteración número 20, 
 
 Si realizamos una gráfica del **ERROR** en función de las **ITERACIONES** visualizamos que el error disminuye hasta las 20-25 iteraciones, en donde comienza a aumentar nuevamente
 
-![](./images/error.png) 
+![](./images/Error.png) 
 
 
 [Volver](./../README.md)
