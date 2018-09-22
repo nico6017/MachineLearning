@@ -25,7 +25,7 @@ Portfolio Machine Learning
 |[Caso: Análisis Químico de Vinos](./docs/winep.md)||||
 |**Algoritmos Lineales**|||| 
 |[Regresión Lineal](./docs/regresion.md)||||
-|[Descenso de Gradiente](./docs/grad.md)||||
+|[Descenso de Gradiente](./docs/grad.md#descenso-de-gradiente)||||
 |[Caso: Goleador de Futbol](./docs/goles.md)||||
 
 
