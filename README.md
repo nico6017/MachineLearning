@@ -27,6 +27,8 @@ Portfolio Machine Learning
 |[Regresión Lineal](./docs/regresion.md)||||
 |[Descenso de Gradiente](./docs/grad.md#descenso-de-gradiente)||||
 |[Caso: Goleador de Futbol](./docs/goles.md)||||
+|[Caso: Aplicando Descenso](./docs/grad.md#descenso-de-gradiente#caso-de-análisis)||||
+
 
 
 ## Introducción  
