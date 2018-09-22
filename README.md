@@ -19,15 +19,15 @@ Portfolio Machine Learning
 
  
 ||**Valores Nulos**|**Outliers**|**RapidMiner**|**Tunning de Parámetros**|
-|:-:|:-:|:-:|:-:|
-|**Preparación de los Datos**||||
-|[Caso: Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓|
-|[Caso: Análisis Químico de Vinos](./docs/winep.md)||||
-|**Algoritmos Lineales**|||| 
-|[Regresión Lineal](./docs/regresion.md)||||
-|[Descenso de Gradiente](./docs/grad.md#descenso-de-gradiente)||||
-|[Caso: Goleador de Futbol](./docs/goles.md)||||
-|[Caso: Aplicando Descenso](./docs/grad.md#descenso-de-gradiente#caso-de-análisis)||||
+|:-:|:-:|:-:|:-:|:-:|
+|**Preparación de los Datos**|||||
+|[Caso: Supervivencia en el Titanic](./docs/Missing.md)|[✓](./docs/Missing.md#tratamiento-de-valores-nulos)| [✓](./docs/Missing.md#tratamiento-de-outliers)|✓||
+|[Caso: Análisis Químico de Vinos](./docs/winep.md)|||||
+|**Algoritmos Lineales**|||||
+|[Regresión Lineal](./docs/regresion.md)|||||
+|[Descenso de Gradiente](./docs/grad.md#descenso-de-gradiente)|||||
+|[Caso: Goleador de Futbol](./docs/goles.md)|||||
+|[Caso: Aplicando Descenso](./docs/grad.md#descenso-de-gradiente#caso-de-análisis)|||||
 
 
 
