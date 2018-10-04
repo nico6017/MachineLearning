@@ -28,6 +28,8 @@ Portfolio Machine Learning
 |[Descenso de Gradiente](./docs/grad.md#descenso-de-gradiente)|||||
 |[Caso: Goleador de Futbol](./docs/goles.md)|||||
 |[Caso: Aplicando Descenso](./docs/grad.md#descenso-de-gradiente#caso-de-análisis)|||||
+|**Arboles de clasificación y de regresión**|||||
+|**Support Vector Machines**|||||
 
 
 
@@ -106,6 +108,21 @@ Si, por otro lado, hace clic en la segunda página de resultados, o escribe una 
 #### 9- Vehículos Inteligentes
 
 * Se espera que en 2025 ya podamos ver coches inteligentes y autónomos en muchas partes del mundo. En este marco, un coche inteligente no solo se integraría en IoT, sino que también aprendería sobre su propietario y su entorno. Estos vehículos podrían ajustar la configuración interna (temperatura, audio, posición del asiento, etc.) de forma automática en función del conductor, informar e incluso solucionar problemas, y conducir y ofrecer asesoramiento en tiempo real sobre el tráfico y las condiciones de la carretera.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
