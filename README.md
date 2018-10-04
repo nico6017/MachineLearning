@@ -1,6 +1,4 @@
 
-Portfolio Machine Learning
-
 # Portfolio Machine Learning
 
 **[Introducción](./README.md#introducción)**
