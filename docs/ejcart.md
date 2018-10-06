@@ -15,5 +15,7 @@ Se tienen dos variables de entrada (X1 yX2) y una sóla variable de salida (Y) c
 | 10,124939 | 3,234551 | 1 |
 | 6,642287  | 3,319984 | 1 |
 
+![](./images/tablacart.png)
+
 
 [Volver](./../README.md)
