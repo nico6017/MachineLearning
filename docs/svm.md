@@ -10,6 +10,13 @@ Este hiperplano, es la frontera que mejor segrega la diferencia entre ambas clas
 
 ## ¿Cómo funciona?
 
+Como mencionamos, el SVM es este hiperplano que mejor divide las clases, la pregunta clave entonces es ¿cómo encontrarlo?
+
+De haber varios hiperplanos ¿cuál elegimos?, veamos algunas condiciones:
+- Debe separar ambas clases
+- Se debe maximizar la distancia entre el hiperplano y el punto más cercano: a esta distancia se le llama margen (*ver imagen*)
+
+![](./images/svm2.png)
 
 Si bien la regresión puede trabajar de forma eficiente con los datos, es incapaz de manejar datos altamente complejos, tarea para la cual SVM posee un mejor rendimiento.
 
