@@ -48,8 +48,15 @@ Nos valemos del operador *Numeric Biner*: vamos a modificar entonces los valores
 
 Establecemos el corte entre baja y no baja en 25% y como se vé en la imagen creamos una columna adicional que va a ser nuestra variable objetivo.
 
+Para ver el progreso hasta el momento, vamos a tomar estadísticas conectando el operador *Statistics* con el dataset original y otro luego de los cambios realizados.
 
+![](./images/statis.png)
 
+Como vemos, originalmente el conjunto de datos poseía valores nulos, ahora ya no.
+
+![](./images/low.png)
+
+Además si vamos a las variables nominales en las estadísticas luego de los cambios, podemos observar la nueva columna creada "low humidity", la cual a priori con el corte establecido, tiene una distribución de valores 50-50
 
 
 
