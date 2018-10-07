@@ -9,7 +9,7 @@ Está construido bajo la plataforma Eclipse y es una herramienta de software lib
 
 ## El dataset
 
-Tenemos un conjunto de datos compuesto por **1094 mediciones** de variables relacionadas al clima de un día.
+Tenemos un conjunto de datos (.csv) compuesto por **1094 mediciones** de variables relacionadas al clima de un día.
 
 Sus atributos son:
 
@@ -24,7 +24,18 @@ Sus atributos son:
 
 ## Objetivo
 
-El objetivo es determinar si un día cualquiera, será o no un día de baja humedad, dados ciertos parámetros. 
+El objetivo es determinar si un día cualquiera, será o no un día de baja humedad, dados ciertos parámetros.
+
+## Paso a Paso con KNIME
+
+#### 1- Ingreso de datos
+
+Levanto el archivo .csv utilizando el operador File Reader, realizando las configuraciones necesarias (lectura de ids y encabezados, establecer el limitador entre columnas, etc)
+
+#### 2- Manejo de valores nulos
+
+
+
 
 
 [Volver](./../README.md)
