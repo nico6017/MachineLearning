@@ -58,7 +58,40 @@ Como vemos, originalmente el conjunto de datos poseía valores nulos, ahora ya n
 
 Además si vamos a las variables nominales en las estadísticas luego de los cambios, podemos observar la nueva columna creada "low humidity", la cual a priori con el corte establecido, tiene una distribución de valores 50-50
 
+#### 4- Filtrado de información
+
+Vamos a usar el operador *Column Filter* para quitar las columnas que tienen que arrojan los datos de humedad, porque es en definitiva lo que queremos predecir.
 
 
-[Volver](./../README.md)
+#### 5- Particion Entrenamiento / Test del dataset
+
+Utilizando el operador *Partitioning* del conjunto de datos vamos a partirlo en una porción para entrenamiento (80%) y la otra para testeo (20%)
+
+#### 6- Entrenamiento con árbol de decisión
+
+Conectamos la salida de datos de 80% que tenemos al momento al operador *Decision Tree Learner*
+
+#### 7- Test y predicción con árbol de decisión
+
+Le pasamos al operador *Decision Tree Predictor* la salida de datos de 20% que tenemos al momento más la salida del árbol de decisión entrenado. Con estos dos conjuntos el operador puede precedir la pertenencia del conjunto de datos a diferentes clases de la variable objetivo.
+
+## Resultados:
+
+![](./images/train.png)
+
+En esta primer imagen vemos como quedó el árbol de decisión con el conjunto de entrenamiento (vemos un 50-50) aprox. Se establecieron los colores rojos y azul para las clases baja humedad y no baja humedad respectivamente.
+
+![](./images/test.png)
+
+En esta segunda imagen vemos como quedó el árbol de decisión con el conjunto de test basado en el input del árbol de entrenamiento (ya no es tan 50-50). Se estableció la misma escala de colores que el caso anterior.
+
+En ambas imágenes la herramienta permite expandir el árbol siguiendo bifurcaciones basadas en cada atributo.
+
+![](./images/knime.png)
+
+*El diagrama de bloques utilizado*
+
+
+
+
 
