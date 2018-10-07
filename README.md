@@ -27,7 +27,7 @@
 |[Caso: Goleador de Futbol](./docs/goles.md)||||||
 |[Caso: Aplicando Descenso](./docs/grad.md#descenso-de-gradiente#caso-de-análisis)||||||
 |[**Arboles de clasificación y de regresión**](./docs/cart.md)||||||
-|[Prediccion del clima CART](./docs/ejcart.md)|||||✓|
+|[Prediccion del clima CART](./docs/ejcart.md)|✓||||✓|
 |[**Support Vector Machines**](./docs/svm.md)||||||
 
 
