@@ -30,9 +30,24 @@ El objetivo es determinar si un día cualquiera, será o no un día de baja hume
 
 #### 1- Ingreso de datos
 
-Levanto el archivo .csv utilizando el operador File Reader, realizando las configuraciones necesarias (lectura de ids y encabezados, establecer el limitador entre columnas, etc)
+Levanto el archivo .csv utilizando el operador *File Reader*, realizando las configuraciones necesarias (lectura de ids y encabezados, establecer el limitador entre columnas, etc)
 
 #### 2- Manejo de valores nulos
+
+Nuestro dataset tiene para algunas mediciones, valores nulos por lo cual decidimos quitarlos.
+
+Para ello, vamos a utilizar el parámetro *remove row*, del operador *Missing Value*
+
+#### 3- Conversión a variable categórica
+
+Nuestro objetivo es determinar si un día tiene o no baja humedad, sin embargo nuestro conjunto de datos tiene múltiples valores de humedad. Lo que vamos a hacer entonces es "convertir" los valores de humedad en dos *bins* o clases: humedad baja y humedad no baja
+
+Nos valemos del operador *Numeric Biner*: vamos a modificar entonces los valores de la columna humedad relativa en la tarde.
+
+![](./images/nbiner.png)
+
+Establecemos el corte entre baja y no baja en 25% y como se vé en la imagen creamos una columna adicional que va a ser nuestra variable objetivo.
+
 
 
 
