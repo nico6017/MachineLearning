@@ -1,4 +1,4 @@
-# Ejercicio de aplicación CART
+# Ejercicio de aplicación CART: Predicción del Clima
 
 ## Herramienta KNIME
 
