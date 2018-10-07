@@ -18,7 +18,7 @@ Se trata de un esquema de múltiples bifurcaciones en forma de árbol, de manera
 
 ## Funcionamiento del algoritmo
 
-[**Véase**](./ejcart.md)
+[**Véase Ejercicio de Aplicación CART**](./ejcart.md)
 
 
 [Volver](./../README.md)
