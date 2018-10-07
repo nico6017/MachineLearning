@@ -18,7 +18,7 @@ Se trata de un esquema de múltiples bifurcaciones en forma de árbol, de manera
 
 ## Funcionamiento del algoritmo
 
-![](./images/captura2.png)
+[**Véase**](./ejcart.md)
 
 
 [Volver](./../README.md)
