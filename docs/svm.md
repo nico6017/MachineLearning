@@ -18,7 +18,13 @@ De haber varios hiperplanos ¿cuál elegimos?, veamos algunas condiciones:
 
 ![](./images/svm2.png)
 
-Si bien la regresión puede trabajar de forma eficiente con los datos, es incapaz de manejar datos altamente complejos, tarea para la cual SVM posee un mejor rendimiento.
+Hasta ahora vimos hiperplanos en dos dimensiones, sin embargo pueden tener tantas dimensiones como requieran los datos.
+
+Comparando este método con la regresión, podemos decir que la regresión puede trabajar de forma eficiente con los datos, sin embargo, es incapaz de manejar datos altamente complejos, tarea para la cual SVM posee un mejor rendimiento.
+
+## Ejemplo de Aplicación
+
+[**Véase Ejercicio de Aplicación SVM**](./ejsvm.md)
 
 
 
