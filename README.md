@@ -30,6 +30,9 @@
 |[Prediccion del clima CART](./docs/ejcart.md)|✓||||✓|
 |[**Support Vector Machines**](./docs/svm.md)||||||
 |**Algoritmos NO Lineales**||||||
+|[**Naives Bayes**](./docs/naives.md)||||||
+|[Caso: Créditos Impagos](./docs/impagos.md)||||||
+
 
 
 
