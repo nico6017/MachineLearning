@@ -9,3 +9,14 @@ A este algoritmo se le llama clasificador "ingenuo" ya que simplemente realiza c
 **El algoritmo se basa en el teorema de bayes y realiza los cálculos siguiendo la ecuación:**
 
 ![](./images/naive.png)
+
+## Pros
+
+- Fácil
+- Rápido
+- Especial para tratar con múltiples clases
+- Bueno para problemas con variables categóricas
+
+## Contras
+
+- Asume que todos los atributos son independientes entre sí, lo que difiere en la mayoría de los casos con la realidad.
