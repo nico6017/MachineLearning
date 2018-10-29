@@ -23,3 +23,36 @@ En términos simples, un clasificador de Bayes ingenuo asume que la presencia o 
 
 - Asume que todos los atributos son independientes entre sí, lo que difiere en la mayoría de los casos con la realidad.
 
+## Ejemplo
+
+Se desea saber si es útil ofrecer una cerveza a un cliente dado que compró Leche.
+
+Se tiene una base de datos con los resultados obtenidos.
+
+
+| Producto | ¿Cerveza? |
+|----------|:---------:|
+| Leche    |     NO    |
+| Pañales  |     SI    |
+| Cigarros |     SI    |
+| Leche    |     SI    |
+| Leche    |     SI    |
+| Pañales  |     SI    |
+| Cigarros |     NO    |
+| Cigarros |     NO    |
+| Leche    |     SI    |
+| Cigarros |     SI    |
+| Leche    |     NO    |
+
+### Paso 1:
+
+Realizo las tablas de frecuencia con las probabilidades a priori (Ver caso de estudio)
+
+### Paso 2:
+
+Con los datos anteriores utilizando la ecuación del teorema de bayes realizo los cálculos.
+
+Para este ejercicio de ejemplo la probabilidad nos daba 0.6, lo cual representa una probabilidad bastante alta que determina que acciones que busquen la conexión entre leche y cerveza en un supermercado, puedan obtener buenos resultados.
+
+
+
