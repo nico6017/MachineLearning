@@ -54,5 +54,5 @@ Con los datos anteriores utilizando la ecuación del teorema de bayes realizo lo
 
 Para este ejercicio de ejemplo la probabilidad nos daba 0.6, lo cual representa una probabilidad bastante alta que determina que acciones que busquen la conexión entre leche y cerveza en un supermercado, puedan obtener buenos resultados.
 
-
+[Volver](./../README.md)
 
