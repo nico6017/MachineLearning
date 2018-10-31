@@ -9,3 +9,7 @@ En inglés se le denomina "Default of Credit Card" cuando un cliente de una tarj
 Podemos ver algo más sobre este problema en el siguiente link:
 
 - https://www.thebalance.com/what-is-credit-card-default-960209
+
+## El caso:
+
+
