@@ -31,7 +31,7 @@
 |[**Support Vector Machines**](./docs/svm.md)||||||
 |**Algoritmos NO Lineales**||||||
 |[**Naives Bayes**](./docs/naives.md)||||||
-|[Caso: Créditos Impagos](./docs/impagos.md)||||||
+|[Caso: Créditos Impagos](./docs/impagos.md)|||✓|||
 
 
 
