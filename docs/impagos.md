@@ -48,6 +48,12 @@ Luego importamos el conjunto de datos en RapidMiner y posteriormente establecemo
 
 Tomando el conjunto de datos, lo dividimos entre conjunto de entrenamiento y de test. Para ello utilizamos el operador "split data". Dividiremos el conjunto a razón de 66% entrenamiento 33% test.
 
+A continuación, entrenaremos el algoritmo con "naive bayes" ya que es rápido y fácil de implementar.
+
+![](./images/naivesr.png)
+
+
+
 
 
 
