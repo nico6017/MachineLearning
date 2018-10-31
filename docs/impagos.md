@@ -1,4 +1,4 @@
-# Caso de estudio: Tarjetas Impagas
+# Caso de estudio: Tarjetas Impagas (RapidMiner)
 
 ![](./images/credit.jpg)
 
@@ -40,8 +40,13 @@ Información crediticia:
 
 Como primer paso los atributos estaban en el conjunto de datos con variables desde X1 a X25 por lo cual removimos la cabecera y pusimos una propia con los nombres de cada atributo
 
-En segundo lugar convertimos el archivo original desde un XLS a CSV para ser posteriormente procesado
+En segundo lugar convertimos el archivo original desde un XLS a CSV para ser posteriormente procesado.
 
+Luego importamos el conjunto de datos en RapidMiner y posteriormente establecemos la variable "default" como la variable objetivo utilizando el operador "set role".
+
+### Procesamiento:
+
+Tomando el conjunto de datos, lo dividimos entre conjunto de entrenamiento y de test. Para ello utilizamos el operador "split data". Dividiremos el conjunto a razón de 66% entrenamiento 33% test.
 
 
 
