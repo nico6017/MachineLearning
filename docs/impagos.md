@@ -52,7 +52,17 @@ A continuación, entrenaremos el algoritmo con "naive bayes" ya que es rápido y
 
 ![](./images/naivesr.png)
 
+Aplicamos el modelo con "Apply model" y a continuación...
 
+### Evaluando resultados:
+
+Para evaluar los resultados nos apoyaremos en el operador "perfomance".
+
+![](./images/perfoman.png)
+
+Como vemos, naives bayes nos otorga una precisión en un un 73%, teniendo una particularidad efectividad en la predicción de aquellos que no van a llegar al "default" (0), mientras que termina siendo una implementación muy pobre para determinar aquellos que si (1).
+
+Si repasamos algunas de las gráficas que RapidMiner nos dá podemos deducir algunas cosas más:
 
 
 
