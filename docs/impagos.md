@@ -64,6 +64,12 @@ Como vemos, naives bayes nos otorga una precisión en un un 73%, teniendo una pa
 
 Si repasamos algunas de las gráficas que RapidMiner nos dá podemos deducir algunas cosas más:
 
+![](./images/graphnaive.png)
+
+Por ejemplo, en este caso tenemos una gráfica de cantidad de pagos atrasados en el mes 6.
+
+Vemos que los que sí llegaron al default (1 en azul) poseen una distribución mucho más hacia la derecha (hacia mayor cantidad de pagos atrasados) que los que no lo hicieron (0 en rojo)
+
 
 
 
