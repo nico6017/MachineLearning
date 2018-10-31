@@ -10,6 +10,11 @@ Podemos ver algo más sobre este problema en el siguiente link:
 
 - https://www.thebalance.com/what-is-credit-card-default-960209
 
-## El caso:
+## El caso
 
+Este estudio apunta a estimar la probabilidad real de "default" de un nuevo cliente en Taiwan, conocida una base de datos de casos previos.
+
+## El Dataset
+
+El conjunto de datos cuenta con 30.000 casos y una variable objetivo "default" en la que sabemos si realmente el cliente llegó a esa situación (1) o no (0)
 
