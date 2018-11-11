@@ -34,6 +34,7 @@
 |[Caso: Créditos Impagos](./docs/impagos.md)|||✓|||
 |**Aprendizaje NO Supervisado**||||||
 |**Clustering**||||||
+|[Caso: Evaluación de notificaciones por medio](./docs/notif.md)||||||
 
 
 
