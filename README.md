@@ -32,6 +32,7 @@
 |**Algoritmos NO Lineales**||||||
 |[**Naives Bayes**](./docs/naives.md)||||||
 |[Caso: Créditos Impagos](./docs/impagos.md)|||✓|||
+|**Aprendizaje NO Supervisado: Clustering**||||||
 
 
 
