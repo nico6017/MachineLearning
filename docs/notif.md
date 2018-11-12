@@ -65,7 +65,15 @@ df_response.tail()
 df = merge(df_campaign, df_response, on = "CampaignID")
 ```
 
+Luego de mezclar, nuestro conjunto de datos quedaría así:
 
+| CampaignID | Type | Month       | Patient  | n  |   |
+|------------|------|-------------|----------|----|---|
+| 319        | 31   | WhatsApp    | December | 99 | 1 |
+| 320        | 32   | Long letter | December | 16 | 1 |
+| 321        | 32   | Long letter | December | 29 | 1 |
+| 322        | 32   | Long letter | December | 46 | 1 |
+| 323        | 32   | Long letter | December | 99 | 1 |
 
 
 
