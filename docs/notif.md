@@ -11,3 +11,11 @@ Para solicitarles a los pacientes la sincronización de sus datos, se realizan u
 - Carta
 - Llamada telefónica
 - Etc
+
+Cuando el paciente realiza la sincronización solicitada, se guarda un registro como forma de medir la respuesta a las campañas.
+
+##  El objetivo
+
+El objetivo es entonces agrupar a los pacientes según la campaña a la cual responden, para ajustar los recordatorios para el año próximo.
+
+
