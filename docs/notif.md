@@ -27,6 +27,24 @@ El conjunto de datos es bien sencillo y posee **2 atributos**
 
 ##  Paso a Paso
 
+###  Importar herramientas a utilizar
+
+- Librería Pandas
+- Librería Numpy
+- Librería Sklearn
+- Librería plotly (para realizar gráficas)
+
+```from pandas import read_excel, merge
+from numpy import arange
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+import plotly.graph_objs as go
+from plotly.offline import init_notebook_mode, iplot
+init_notebook_mode()
+```
+
+
+
 
 
 [Volver](./../README.md)
