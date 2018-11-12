@@ -25,6 +25,8 @@ El conjunto de datos es bien sencillo y posee **2 atributos**
 - El *id paciente* que identifica de cuál de los 99 pacientes se trata
 - La campaña a la cual el paciente respondió (realizó la sincronización que se le pedía) del 1 al 32
 
+##  Paso a Paso
+
 
 
 [Volver](./../README.md)
