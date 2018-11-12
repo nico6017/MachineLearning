@@ -20,7 +20,15 @@ El objetivo es entonces agrupar a los pacientes según la campaña a la cual res
 
 ##  El Dataset
 
-El conjunto de datos es bien sencillo y posee **2 atributos**
+El conjunto de datos es bien sencillo, se trata de un excel con 2 hojas:
+
+La primera enfocada en las campañas con **3 atributos**
+
+- *CampaignID* que identifica cada una de las campañas
+- *Type* Tipo o medio por el cual se realizó la campaña
+- *Month* Mes en el que se realizó
+
+La segunda enfocada en las respuestas obtenidas con **2 atributos**
 
 - El *id paciente* que identifica de cuál de los 99 pacientes se trata
 - La campaña a la cual el paciente respondió (realizó la sincronización que se le pedía) del 1 al 32
