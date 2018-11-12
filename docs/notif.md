@@ -51,6 +51,21 @@ from plotly.offline import init_notebook_mode, iplot
 init_notebook_mode()
 ```
 
+###  Cargar los datos
+
+Cargamos por un lado los datos sobre las campañas (hoja1) y por otro los datos de las respuestas (hoja2).
+Luego y para trabajar sobre un solo conjunto hacemos un merge de ambos conjuntos, sobre el atributo que tienen en común
+
+```
+df_campaign = read_excel("PatientResponse.xlsx", sheet_name = 0)
+df_response = read_excel("PatientResponse.xlsx", sheet_name = 1)
+df_response["n"] = 1
+df_campaign.tail()
+df_response.tail()
+df = merge(df_campaign, df_response, on = "CampaignID")
+```
+
+
 
 
 
