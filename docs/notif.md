@@ -18,6 +18,13 @@ Cuando el paciente realiza la sincronización solicitada, se guarda un registro 
 
 El objetivo es entonces agrupar a los pacientes según la campaña a la cual responden, para ajustar los recordatorios para el año próximo.
 
+##  El Dataset
+
+El conjunto de datos es bien sencillo y posee **2 atributos**
+
+- El *id paciente* que identifica de cuál de los 99 pacientes se trata
+- La campaña a la cual el paciente respondió (realizó la sincronización que se le pedía) del 1 al 32
+
 
 
 [Volver](./../README.md)
