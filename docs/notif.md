@@ -134,7 +134,9 @@ final = merge(df_response, patient_clusters)
 final = merge(df_campaign, final)
 ```
 
-Graficamos
+### Graficamos
+
+![](./images/sca.png)
 
 ###  Evaluando Resultados
 
