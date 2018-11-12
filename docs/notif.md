@@ -94,6 +94,36 @@ table = table.fillna(0).reset_index()
 | 94         | 98      | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 | 95         | 99      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 1.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 1.0 |
 
+###  Predicción en Clusters
+
+Con los datos ya preparados, voy a establecer en un principio 6 clusters diferentes y para cada paciente voy a predecir a cuál de ellos pertenece
+
+```
+cluster = KMeans(n_clusters = 5)
+table["cluster"] = cluster.fit_predict(table[table.columns[2:]])
+```
+
+###  Evaluacion de resultados
+
+A continuación, utilizaremos PCA (Principal Component Analysis) para obtener una gráfica bidimensional
+
+```
+pca = PCA(n_components=2)
+table['x'] = pca.fit_transform(table[cols])[:,0]
+table['y'] = pca.fit_transform(table[cols])[:,1]
+table = table.reset_index()
+```
+
+Nuestra tabla estaría quedando así:
+
+| CampaignID | index | Patient | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | ... | 26  | 27  | 28  | 29  | 30  | 31  | 32  | cluster | x         | y         |
+|------------|-------|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|---------|-----------|-----------|
+| 91         | 91    | 95      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0       | -0.121409 | -0.437478 |
+| 92         | 92    | 96      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 1.0 | 0.0 | 4       | 0.666059  | -0.843051 |
+| 93         | 93    | 97      | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 3       | -0.474608 | -0.368972 |
+| 94         | 94    | 98      | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 1.0 | 0.0 | 0.0 | ... | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 3       | -0.485692 | -0.393428 |
+| 95         | 95    | 99      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 1.0 | 0       | -0.831590 | -1.119408 |
+
 
 
 
