@@ -51,7 +51,7 @@ from plotly.offline import init_notebook_mode, iplot
 init_notebook_mode()
 ```
 
-###  Cargar los datos
+###  Carga y preparación de los datos
 
 Cargamos por un lado los datos sobre las campañas (hoja1) y por otro los datos de las respuestas (hoja2).
 Luego y para trabajar sobre un solo conjunto hacemos un merge de ambos conjuntos, sobre el atributo que tienen en común
@@ -74,6 +74,26 @@ Luego de mezclar, nuestro conjunto de datos quedaría así:
 | 321        | 32   | Long letter | December | 29 | 1 |
 | 322        | 32   | Long letter | December | 46 | 1 |
 | 323        | 32   | Long letter | December | 99 | 1 |
+
+a continuación, vamos a crear una matriz para ver qué paciente respondió a cuál campaña y será esa matriz la que utilizaremos como entrada para realizar la división en clusters.
+
+```
+table = df.pivot_table(index = ["Patient"], columns = ["CampaignID"], values = "n")
+```
+
+Relleno los valores NaN de la matriz con ceros
+```
+table = table.fillna(0).reset_index()
+```
+
+| CampaignID | Patient | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | ... | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  |
+|------------|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 91         | 95      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 |
+| 92         | 96      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 1.0 | 0.0 |
+| 93         | 97      | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 |
+| 94         | 98      | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 95         | 99      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | 1.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 1.0 |
+
 
 
 
