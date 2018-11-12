@@ -19,3 +19,5 @@ Cuando el paciente realiza la sincronización solicitada, se guarda un registro 
 El objetivo es entonces agrupar a los pacientes según la campaña a la cual responden, para ajustar los recordatorios para el año próximo.
 
 
+
+[Volver](./../README.md)
