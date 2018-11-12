@@ -96,14 +96,14 @@ table = table.fillna(0).reset_index()
 
 ###  Predicción en Clusters
 
-Con los datos ya preparados, voy a establecer en un principio 6 clusters diferentes y para cada paciente voy a predecir a cuál de ellos pertenece
+Con los datos ya preparados, voy a establecer en un principio 5 clusters diferentes y para cada paciente voy a predecir a cuál de ellos pertenece
 
 ```
 cluster = KMeans(n_clusters = 5)
 table["cluster"] = cluster.fit_predict(table[table.columns[2:]])
 ```
 
-###  Evaluacion de resultados
+###  Resultados
 
 A continuación, utilizaremos PCA (Principal Component Analysis) para obtener una gráfica bidimensional
 
@@ -124,6 +124,45 @@ Nuestra tabla estaría quedando así:
 | 94         | 94    | 98      | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 1.0 | 0.0 | 0.0 | ... | 0.0 | 1.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 3       | -0.485692 | -0.393428 |
 | 95         | 95    | 99      | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 0.0 | 0.0 | ... | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 | 1.0 | 0       | -0.831590 | -1.119408 |
 
+
+Realizo un merge final para pasar a graficar
+```
+patient_clusters = table [["Patient", "cluster", "x", "y"]]
+final = merge(df_response, patient_clusters)
+final = merge(df_campaign, final)
+```
+
+Graficamos
+
+###  Evaluando Resultados
+
+Para concluir, analizamos los resultados de cada cluster, por ejemplo si analizamos el primer cluster (0), obtenemos los siguientes resultados
+
+```
+final["0"]= final.cluster == 0
+final.groupby("0").Type.value_counts()
+```
+
+- WhatsApp 39
+- email 15
+- Long letter 11
+- Telephone 10
+- Pamphlet 6
+- SMS 2
+
+
+Vemos que el cluster tiene 49 integrantes, de los cuales, la mayoría realizaron la sincronización de datos que les fue solicitada, ante el recordatorio por Whatsapp.
+
+Sin embargo en el cluster 1 la historia fue diferente:
+
+- email 35
+- Whatsapp 1
+- Telephone 1
+- Pamphlet 1
+
+de estos 38 integrantes, el email fue el método más efectivo.
+
+Podríamos también investigar quiénes fueron esos pacientes para intentar deducir alguna especie de patrón
 
 
 
