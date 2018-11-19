@@ -35,6 +35,8 @@
 |**Aprendizaje NO Supervisado**||||||
 |**Clustering**||||||
 |[Caso: Evaluación de notificaciones por medio](./docs/notif.md)||||||
+|**Ensambles**||||||
+|[Caso: Evaluación de Autos y camionetas](./docs/cars.md)||||||
 
 
 
