@@ -60,7 +60,14 @@ Dentro del operador *Cross Validation* deberemos ingresar el *vote* que es dónd
 
 ![](./images/vote.png)
 
+Utilizaremos entonces 4 diferentes algoritmos, de los cuales ya hemos hablado en otros casos de estudio, que participarán en la decisión de aceptabilidad de los autos del conjunto de datos.
 
+## Resultados obtenidos
+
+![](./images/Resensa.png)
+
+
+Como vemos, la composición de algoritmos (el ensamble) a la hora de tomar decisiones, colaboró para obtener un rendimiento aceptable a la hora de clasificar.
 
 
 [Volver](./../README.md)
