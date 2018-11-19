@@ -1,5 +1,5 @@
 # Evaluación de Autos y Camionetas
 
-![](./images/carcheck.png)
+![](./images/check.jpeg)
 
 [Volver](./../README.md)
