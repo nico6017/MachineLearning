@@ -48,6 +48,18 @@ En este caso:
 2) El atributo "doors" contiene los valores: 2, 3, 4 y 5, pero también "5more", por ende fue suplantado este último por solo "5"
 3) Algo similar acontece con el atributo persons, que contiene la palabra "more" por lo cual fue suplantado por "5" para cualquier vehículo que pueda transportar 5 o más personas.
 
+### Procesamiento
+
+Para resolver este problema de clasificación, utilizaremos la técnica **"VOTE"** que lo que permite es realizar un ensamble de varios algoritmos, de manera de que cada uno "vota" sobre la predicción de la/s clases objetivo. De esta manera, se decide por mayoría entre el resultado de la ejecución de dichos algoritmos.
+
+![](./images/captu.png)
+
+Como vemos a priori el proceso es bastante sencillo.
+
+Dentro del operador *Cross Validation* deberemos ingresar el *vote* que es dónde se van a poner a trabajar a los diferentes algoritmos como vemos en la siguiente imagen:
+
+![](./images/vote.png)
+
 
 
 
