@@ -38,7 +38,7 @@
 |**Ensambles**||||||
 |[Caso: Evaluación de Autos y camionetas](./docs/cars.md)||||||
 |**PROYECTO FINAL**||||||
-|[Caso: ](./docs/final.md)||||||
+|[Caso: ¿Comprando o Navegando? Análisis de intención de compra online](./docs/final.md)||||||
 
 
 
