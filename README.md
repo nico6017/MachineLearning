@@ -38,6 +38,7 @@
 |**Ensambles**||||||
 |[Caso: Evaluación de Autos y camionetas](./docs/cars.md)||||||
 |**PROYECTO FINAL**||||||
+|[Caso: ](./docs/final.md)||||||
 
 
 
