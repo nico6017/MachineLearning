@@ -127,7 +127,7 @@ Por ejemplo, en algunos atributos, los últimos rangos poseen menos del 1% de lo
 
 Qué hacemos en este caso? Insertamos un filtro (*filter examples*) inmediatamente antes de la distribución en rangos, **quitando aquellos valores que parecen estar fuera de rango**
 
-### Entrenamiento
+### División de datos
 
 Ahora que tenemos los datos preparados, vamos a entrenar algoritmos de clasificación para luego poder predecir valores pero antes, debemos dividir el conjunto de datos para tomar una porción para entrenar y otra para testear los resultados.
 
@@ -137,9 +137,29 @@ Aquí es importante en caso de dejar las propiedades del operador por defecto, c
 
 ![](./images/compden.png)
 
+### Entrenamiento
 
+Con el fin de obtener el mejor resultado en las predicciones, probaremos diferentes algoritmos. Sin embargo, en lugar de probar uno a uno, utilizaremos la técnica de ensamble.
 
-## Resultados obtenidos
+Gracias a los ensambles podemos utilizar varios algoritmos a la misma vez, por ejemplo mediante el ensamble por voto (*vote*), visto en anteriores proyectos de este portfolio.
+
+Valiéndonos de la posibilidad de usar muchos algoritmos a la vez, usaremos algunos de los vistos en anteriores proyectos:
+
+- Knn
+- Árboles de Desición
+- Random Forest
+- Naives Bayes
+
+## Evaluación de Resultados
+
+Una vez entrenados los algoritmos y aplicados los modelos, debemos pasar a evaluar los resultados.
+
+Para comenzar recordemos que utilizaremos el 30% de testeo que no procesamos para validar la confianza de los resultados.
+
+Nuestro esquema casi final en la herramienta RapidMiner quedaría así:
+
+![](./images/esq.png)
+
 
 ## Conclusiones
 
