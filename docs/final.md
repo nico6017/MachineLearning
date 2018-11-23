@@ -174,13 +174,31 @@ Si analizamos la importancia de los atributos frente a las predicciones mediante
 
 ![](./images/pred.png)
 
-## Algunos cambios posibles...
+## Algunos cambios y posibles mejoras...
 
+**NO PREPROCESAR LOS DATOS**
+Pese a que realizamos un arduo trabajo de pre procesamiento de los datos, si eliminamos dicho trabajo, las predicciones de valores mejoran. Esto hace pensar que en esta área de negocio, aquellos outliers y valores que parecen estar fuera de rango, cobran mayor importancia:
+
+Algunos números con este cambio:
+
+- Accuracy 88%
+- Predicción de la clase TRUE: 67%
+
+**CAMBIAR LA DIVISIÓN DE DATOS DE ENTRANAMIENTO TEST A 80% / 20%**
+
+Algunos números con este cambio:
+
+- Accuracy 88%
+- Predicción de la clase TRUE: 68%
+
+**OTRAS POSIBLES APLICACIONES**
+
+Utilizar técnicas de clustering vistas en proyectos anteriores para agrupar las diferentes clases de clientes
 
 
 ## Conclusiones
 
-Si bien analizamos el problema desde varios puntos de vista y logramos una primera aproximación a la hora de realizar predicciones, necesitariamos de un conjunto mejor relevado en cuanto a la toma de información y atributos más relevantes para una compra para tener una mejor efectividad
+Si bien analizamos el problema desde varios puntos de vista y logramos una primera aproximación a la hora de realizar predicciones, necesitariamos de un conjunto mejor relevado en cuanto a la toma de información y atributos más relevantes para una compra para tener una mejor efectividad, ya que si tomamos los datos tal y como estaban, la predicción fue mejor aún, contrario a lo que debía suceder
 
 ## Bibliografía
 
