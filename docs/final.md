@@ -127,6 +127,18 @@ Por ejemplo, en algunos atributos, los últimos rangos poseen menos del 1% de lo
 
 Qué hacemos en este caso? Insertamos un filtro (*filter examples*) inmediatamente antes de la distribución en rangos, **quitando aquellos valores que parecen estar fuera de rango**
 
+### Entrenamiento
+
+Ahora que tenemos los datos preparados, vamos a entrenar algoritmos de clasificación para luego poder predecir valores pero antes, debemos dividir el conjunto de datos para tomar una porción para entrenar y otra para testear los resultados.
+
+Vamos a dividir el conjunto a razon de 70% entrenamiento 30% testeo utilizando el operador *split data*.
+
+Aquí es importante en caso de dejar las propiedades del operador por defecto, chequear que la división de los datos no haya afectado la distribución de los mismos, lo que en este caso no sucedió como podemos observar en el siguiente ejemplo:
+
+![](./images/compden.png)
+
+
+
 ## Resultados obtenidos
 
 ## Conclusiones
