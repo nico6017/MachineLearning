@@ -48,9 +48,38 @@ Está dentro de la categoría "Problemas de Clasificación", ya que nuestro obje
 
 ## El Dataset
 
+### Descripción
+
 El conjunto de datos está compuesto por 12330 registros de sesiones en diferentes sitios de comercio electrónico pertenecientes a distintos usuarios.
 
 Cabe destacar que para que el conjunto no tenga tendencia alguna, dichos registros, pertenecen a sesiones durante un periodo de un año para evitar fechas particulares, perfiles particulares de usuarios, etc
+
+Del total de las 12330 sesiones, un 84,5% son ejemplos que NO terminaron en compra alguna, mientras que el restante 15,5% SI.
+
+### Atributos
+
+Cuenta con 18 atributos: 10 atributos numéricos, 8 categóricos.
+
+Algunos de ellos relacionados al usuario como ser:
+- Si se trata de un usuario nuevo o es un usuario que retorna (Usuario nuevo o no)
+- La región de donde proviene el usuario (1 al 9)
+
+Otros relacionados a la fecha de ingreso:
+- Mes de ingreso
+- Dia de la semana (Fin de semana o no)
+- Si es un día especial (gradualmente ponderado de 0 a 1 con la importancia del día)
+
+También contamos con aspectos técnicos como ser:
+- Navegador utilizado
+- Sistema operativo
+
+y por último, datos de la sesión como:
+- Navegación entre links realizada
+- Ratios de salida (desde que ingresó hasta que salió)
+- Duración de la sesión según producto
+
+
+El atributo "Revenue" (Ingreso) será la variable objetivo (si la sesión produjo o no ingreso)
 
 
 
