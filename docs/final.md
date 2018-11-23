@@ -30,7 +30,7 @@ Sin embargo, si pasamos al mundo online nos encontramos con un panorama muy dife
 
 Estamos en condiciones de afirmar entonces, que una de las grandes diferencias del online vs offline es poder medir la inteción de compra.
 
-De hecho según el "Estudio Global Nielsen sobre Comercio Electrónico" la intención de los consumidores por utilizar los medios digitales, se viene triplicando año a año, así como también las visitas versus compras efectivas. En la bibliografía de este artículo dejo información que amplía el tema.
+De hecho según el *"Estudio Global Nielsen sobre Comercio Electrónico"* la intención de los consumidores por utilizar los medios digitales, se viene triplicando año a año, así como también las visitas versus compras efectivas. En la bibliografía de este artículo dejo información que amplía el tema.
 
 # El problema
 
@@ -43,5 +43,8 @@ De hecho según el "Estudio Global Nielsen sobre Comercio Electrónico" la inten
 # Conclusiones
 
 # Bibliografía
+
+- En este artículo podemos encontrar más información sobre el *"Estudio Global Nielsen sobre Comercio Electrónico"* relizado en 2014 https://www.nielsen.com/ec/es/press-room/2014/intenciones-de-compra-online.html. También se puede ampliar en www.nielsen.com
+
 
 [Volver](./../README.md)
