@@ -4,10 +4,13 @@
 
 ![](./images/online.jpg)
 
-- **¿Cuántas veces navegaste por diferentes sitios de e-commerce solo por curiosidad?**
-- **¿Qué porcentaje de las veces que observaste un artículo finalmente lo compraste?**
-- **¿Existe punto de comparación con los curiosos del mundo offline en tiendas físicas?**
+<center>
 
+### **¿Cuántas veces navegaste por diferentes sitios de e-commerce solo por curiosidad?**
+### **¿Qué porcentaje de las veces que observaste un artículo finalmente lo compraste?**
+### **¿Existe punto de comparación con los curiosos del mundo offline en tiendas físicas?**
+
+</center>
 
 # El problema
 
