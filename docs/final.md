@@ -36,10 +36,21 @@ También estuve repasando un interesante estudio sobre los factores críticos qu
 
 ## El problema
 
+Como ya fue mencionado, la intención de compra es una variable que se puede medir de muchas formas y que también puede tener muchas interpretaciones de acuerdo al tipo de negocio.
 
+Para acortar el alcance, nos enfocaremos en intentar predecir si un cliente que navega por un sitio de compras, terminará efectivamente comprando o no un producto / servicio.
 
+Este problema es super importante entre las tiendas online, ya que el desafío es desarrollar estrategias comerciales, para lograr que ese porcentaje de usuarios que visitaron el sitio sin comprar ningún artículo termine comprando.
+
+A efectos de ciencia de datos, se trata de un problema de aprendizaje supervisado, es decir que el proceso es: a partir de datos conocidos, entrenar diferentes algoritmos, para que puedan predecir nuevos valores.
+
+Está dentro de la categoría "Problemas de Clasificación", ya que nuestro objetivo será clasificar en base a los datos, si algo SUCEDERÁ o NO SUCEDERÁ 
 
 ## El Dataset
+
+
+
+
 
 ## Paso a paso
 
