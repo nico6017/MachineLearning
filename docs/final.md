@@ -174,7 +174,13 @@ Si analizamos la importancia de los atributos frente a las predicciones mediante
 
 ![](./images/pred.png)
 
+## Algunos cambios posibles...
+
+
+
 ## Conclusiones
+
+Si bien analizamos el problema desde varios puntos de vista y logramos una primera aproximación a la hora de realizar predicciones, necesitariamos de un conjunto mejor relevado en cuanto a la toma de información y atributos más relevantes para una compra para tener una mejor efectividad
 
 ## Bibliografía
 
