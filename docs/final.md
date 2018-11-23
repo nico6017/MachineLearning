@@ -62,7 +62,7 @@ Está dentro de la categoría "Problemas de Clasificación", ya que nuestro obje
 
 - En este artículo podemos encontrar más información sobre el *"Estudio Global Nielsen sobre Comercio Electrónico"* relizado en 2014 https://www.nielsen.com/ec/es/press-room/2014/intenciones-de-compra-online.html. También se puede ampliar en www.nielsen.com
 
-Artículo sobre los factores críticos que influyen en la intención de compra - http://eprints.uanl.mx/12522/1/A6.pdf
+- Artículo sobre los factores críticos que influyen en la intención de compra - http://eprints.uanl.mx/12522/1/A6.pdf
 
 
 [Volver](./../README.md)
