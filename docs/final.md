@@ -42,12 +42,15 @@ Para acortar el alcance, nos enfocaremos en intentar predecir si un cliente que 
 
 Este problema es super importante entre las tiendas online, ya que el desafío es desarrollar estrategias comerciales, para lograr que ese porcentaje de usuarios que visitaron el sitio sin comprar ningún artículo termine comprando.
 
-A efectos de ciencia de datos, se trata de un problema de aprendizaje supervisado, es decir que el proceso es: a partir de datos conocidos, entrenar diferentes algoritmos, para que puedan predecir nuevos valores.
+A efectos de ciencia de datos, se trata de un problema de aprendizaje supervisado, es decir que el proceso será: a partir de datos conocidos, entrenar diferentes algoritmos, para que puedan predecir nuevos valores.
 
 Está dentro de la categoría "Problemas de Clasificación", ya que nuestro objetivo será clasificar en base a los datos, si algo SUCEDERÁ o NO SUCEDERÁ 
 
 ## El Dataset
 
+El conjunto de datos está compuesto por 12330 registros de sesiones en diferentes sitios de comercio electrónico pertenecientes a distintos usuarios.
+
+Cabe destacar que para que el conjunto no tenga tendencia alguna, dichos registros, pertenecen a sesiones durante un periodo de un año para evitar fechas particulares, perfiles particulares de usuarios, etc
 
 
 
