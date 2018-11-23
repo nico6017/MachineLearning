@@ -119,7 +119,21 @@ A continuación observamos las distribuciones de otros dos atributos y podemos n
 
 Como se trata de un problema de clasificación, necesitamos que los atributos involucrados sean todos del tipo nominal, es decir que tengan una categoría marcada y no diferentes valores numéricos.
 
-Al momento nos quedan 8 atributos numéricos, por tanto vamos a convertirlos a nominales, distribuyendo su rango en diferentes "bins" o segmentos para poder procesarlos.
+Al momento nos quedan 8 atributos numéricos, por tanto vamos a convertirlos a nominales, distribuyendo sus valores en diferentes "bins" o segmentos para poder procesarlos (*Discretize by Binning*).
+
+Elegimos distribuir cada uno de los valores numéricos en 5 diferentes rangos para su clasificación. Luego de este proceso encontramos información de utilidad para seguir puliendo los datos.
+
+Por ejemplo, en algunos atributos, los últimos rangos poseen menos del 1% de los valores comparado con los otros rangos. Por tanto los asumimos como nuevos outliers.
+
+Qué hacemos en este caso? Insertamos un filtro (*filter examples*) inmediatamente antes de la distribución en rangos, **quitando aquellos valores que parecen estar fuera de rango**
+
+Luego de este proceso podemos avanzar en nuevas relaciones entre los atributos:
+
+![](./images/densi.png)
+
+Aqui vemos por ejemplo, que los fines de semana la densidad de curiosos (no compradores) en azul, es mucho mayor que la de los compradores, mientras que entre semana la relación es contraria, lo que a priori parecería tener sentido.
+
+
 
 ## Resultados obtenidos
 
