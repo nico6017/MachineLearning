@@ -127,14 +127,6 @@ Por ejemplo, en algunos atributos, los últimos rangos poseen menos del 1% de lo
 
 Qué hacemos en este caso? Insertamos un filtro (*filter examples*) inmediatamente antes de la distribución en rangos, **quitando aquellos valores que parecen estar fuera de rango**
 
-Luego de este proceso podemos avanzar en nuevas relaciones entre los atributos:
-
-![](./images/densi.png)
-
-Aqui vemos por ejemplo, que los fines de semana la densidad de curiosos (no compradores) en azul, es mucho mayor que la de los compradores, mientras que entre semana la relación es contraria, lo que a priori parecería tener sentido.
-
-
-
 ## Resultados obtenidos
 
 ## Conclusiones
