@@ -160,6 +160,12 @@ Nuestro esquema casi final en la herramienta RapidMiner quedaría así:
 
 ![](./images/esq.png)
 
+Si procedemos a la ejecución, encontramos diferentes enfoques para evaluar los resultados obtenidos:
+
+Un primer enfoque es analizar la matriz de confusión:
+
+![](./images/mat.png)
+
 
 ## Conclusiones
 
