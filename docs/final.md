@@ -34,20 +34,20 @@ De hecho según el *"Estudio Global Nielsen sobre Comercio Electrónico"* la int
 
 También estuve repasando un interesante estudio sobre los factores críticos que influyen en la intención de compra que dejo en la bibliografía.
 
-# El problema
+## El problema
 
 
 
 
-# El Dataset
+## El Dataset
 
-# Paso a paso
+## Paso a paso
 
-# Resultados obtenidos
+## Resultados obtenidos
 
-# Conclusiones
+## Conclusiones
 
-# Bibliografía
+## Bibliografía
 
 - En este artículo podemos encontrar más información sobre el *"Estudio Global Nielsen sobre Comercio Electrónico"* relizado en 2014 https://www.nielsen.com/ec/es/press-room/2014/intenciones-de-compra-online.html. También se puede ampliar en www.nielsen.com
 
