@@ -166,6 +166,13 @@ Un primer enfoque es analizar la matriz de confusión:
 
 ![](./images/mat.png)
 
+Como vemos podríamos pensar que en un principio con un grado de acierto de 84% se trata de una buena predicción.
+
+Sin embargo analizando en profundidad vemos que funciona muy bien a la hora de predecir quienes NO compran, sin embargo predice solo con una exactitud del 35%, los valores de la clase TRUE correspondientes a los que SI compran.
+
+Si analizamos la importancia de los atributos frente a las predicciones mediante gráficas, encontramos que uno de las variables claves fue la de links relacionados a un producto, lo que tiene sentido al tener mejores ratios de compra.
+
+![](./images/pred.png)
 
 ## Conclusiones
 
