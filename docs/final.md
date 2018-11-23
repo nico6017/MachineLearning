@@ -92,6 +92,9 @@ Mediante algunas gráficas podemos ir conociendo relaciones interesantes:
 
 ![](./images/finalgraf.png)
 
+Aquí tenemos dos grandes columnas, quienes efectivamente compraron a la derecha (true) y quienes no a la izquierda (false), en ambas a su vez tenemos 3 valores, según el tipo de usuario, nuevo, conocido y otro.
+
+**Podemos sacar como primer conclusión que la cantidad de usuarios nuevos que realizan una compra, son practicamente el doble de los que compran siendo usuarios ya registrados**
 
 ### Pre-Procesamiento: Datos Faltantes
 
