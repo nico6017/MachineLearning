@@ -115,6 +115,12 @@ A continuación observamos las distribuciones de otros dos atributos y podemos n
 
 ![](./images/distri.png)
 
+### Pre-Procesamiento: Unificación de tipos de atributos
+
+Como se trata de un problema de clasificación, necesitamos que los atributos involucrados sean todos del tipo nominal, es decir que tengan una categoría marcada y no diferentes valores numéricos.
+
+Al momento nos quedan 8 atributos numéricos, por tanto vamos a convertirlos a nominales, distribuyendo su rango en diferentes "bins" o segmentos para poder procesarlos.
+
 ## Resultados obtenidos
 
 ## Conclusiones
