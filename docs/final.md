@@ -78,13 +78,26 @@ y por último, datos de la sesión como:
 - Ratios de salida (desde que ingresó hasta que salió)
 - Duración de la sesión según producto
 
-
 El atributo "Revenue" (Ingreso) será la variable objetivo (si la sesión produjo o no ingreso)
 
-
-
-
 ## Paso a paso
+
+Utizaremos en éste análisis, la herramienta RapidMiner para procesar y evaluar los datos
+
+### Pre-Procesamiento: Análisis Primario de los datos
+
+Como primer paso, cargamos los datos y analizamos sus valores y distribución. Notamos que a priori existen, datos faltantes marcados como "cero", atributos que no parecen servir demasiado para el estudio del caso ya que están demasiado centrados en un valor y también valores disparatados o "outliers" en algunos registros
+
+### Pre-Procesamiento: Datos Faltantes
+
+- Encontramos que más del 90% de los valores del atributo *Duración Administrativa de la sesión* son datos faltantes, por lo cual procederemos a quitarlo (*Select Atributes en RM*)
+
+Algo similar ocurre con dos atributos más:
+
+- *Duración de la sesión relacionada con el producto*
+- *Duración informada*
+
+
 
 ## Resultados obtenidos
 
