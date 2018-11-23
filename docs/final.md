@@ -32,7 +32,12 @@ Estamos en condiciones de afirmar entonces, que una de las grandes diferencias d
 
 De hecho según el *"Estudio Global Nielsen sobre Comercio Electrónico"* la intención de los consumidores por utilizar los medios digitales, se viene triplicando año a año, así como también las visitas versus compras efectivas. En la bibliografía de este artículo dejo información que amplía el tema.
 
+También estuve repasando un interesante estudio sobre los factores críticos que influyen en la intención de compra que dejo en la bibliografía.
+
 # El problema
+
+
+
 
 # El Dataset
 
@@ -45,6 +50,8 @@ De hecho según el *"Estudio Global Nielsen sobre Comercio Electrónico"* la int
 # Bibliografía
 
 - En este artículo podemos encontrar más información sobre el *"Estudio Global Nielsen sobre Comercio Electrónico"* relizado en 2014 https://www.nielsen.com/ec/es/press-room/2014/intenciones-de-compra-online.html. También se puede ampliar en www.nielsen.com
+
+Artículo sobre los factores críticos que influyen en la intención de compra - http://eprints.uanl.mx/12522/1/A6.pdf
 
 
 [Volver](./../README.md)
