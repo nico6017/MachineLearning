@@ -107,7 +107,13 @@ Algo similar ocurre con dos atributos más:
 
 ### Pre-Procesamiento: Outliers
 
+Encontramos diferentes outliers en los mismos atributos que también poseían datos faltantes y que a los efectos de este análisis, ya fueron eliminados.
 
+### Pre-Procesamiento: Otros atributos a descartar
+
+A continuación observamos las distribuciones de otros dos atributos y podemos notar que practicamente todos los valores están en cero. Inlcuso contrario a lo que a priori se piensa, el atributo special day, no influye en el balance anual de comportamiento de los usuarios.
+
+![](./images/distri.png)
 
 ## Resultados obtenidos
 
